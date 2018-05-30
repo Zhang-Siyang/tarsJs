@@ -54,3 +54,14 @@ c();  //控制台输出2
 
 ![](https://github.com/TUARAN/PIC/blob/master/js/bibao.png)
 
+```javascript
+function f1(){
+        var n=9;
+        function f2(){
+        console.log("wowowowow")
+        }
+        return f2;     
+}
+f1();
+```
+
