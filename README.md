@@ -50,3 +50,7 @@ c();  //控制台输出2
 
 `以上摘自“一分钟理解js闭包”`
 
+但是看图说话总是会好一点：
+
+![](https://github.com/TUARAN/PIC/blob/master/js/bibao.png)
+
