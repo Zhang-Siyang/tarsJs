@@ -70,3 +70,5 @@ f1();
 
 [链接](https://www.cnblogs.com/focusxxxxy/p/6390536.html)
 
+2.[说说js的缓存问题](https://www.cnblogs.com/minigrasshopper/p/8064367.html)
+===
