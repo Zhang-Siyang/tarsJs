@@ -113,8 +113,9 @@ f1()();
 f1()();
 //解释：结果：1<br>1 同样互不干扰
 ```
-```javascript
+
 e.g3：(this)
+```javascript
 var a=100;
 function f1(){
         this.a=1
