@@ -37,4 +37,6 @@ console.table([
      a[2](),
 ])
 ```
+输出结果：
+![](https://github.com/TUARAN/PIC/blob/master/js/bibaotest2.png)
 
