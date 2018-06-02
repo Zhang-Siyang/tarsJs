@@ -1,6 +1,8 @@
 1.es6 const:es6 const声明一个只读的常量
 
-2.闭包再解析：
+2.闭包再解析（作用域 ES5\6）：
+
+ES5：
 ```javascript
 const a=[];
 for(var i=0;i<=2;i++){
