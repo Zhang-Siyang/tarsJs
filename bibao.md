@@ -73,7 +73,7 @@ var go=function f1(){
       f2();
 }()
 //解释：结果：1，2 这种闭包结构，首先是f1()执行了，然后执行f2(),f2可以访问a,执行两遍f2(),但是不会被重复var a=0,这一点是为什么？
-var go=function f1(){
+function f1(){
         var a=0;
         function f2(){
          a++;
@@ -82,8 +82,8 @@ var go=function f1(){
       f2();
       f2();
 }
-go();
-go();
+f1();
+f1();
 //解释：结果：1,2<br>1,2 这种情况下执行了两次go(),但是他们之间互不影响;
 ```
 e.g2:(return)
