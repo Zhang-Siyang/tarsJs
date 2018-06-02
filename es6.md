@@ -53,6 +53,7 @@ let是块级作用域，函数内部使用let定义后，对函数外部无影�
 (function(){
   console.log(123123123)
 })()
+
 #之前有涉及到
 var go=function f1(){
 }()
