@@ -15,3 +15,27 @@ function f1(){
 }
 ``` 
 这个函数显然不会执行，不会打印，没有事件驱动！没有调用！
+
+```javascript
+function f1(){
+        var a=0;
+        function f2(){
+            console.log(a);
+        }
+        console.log(a);
+}
+f1();
+```
+f2会执行吗，不会执行，没有事件驱动！没有调用！只会执行f1，输出0
+
+```javascript
+function f1(){
+        var a=0;
+        return function f2(){
+            console.log(a);
+        }
+}
+var c=f1();
+c();        //相当于f1()();f1()执行返回f2 也只是function ,并没有执行，后面再用()执行才会输出a
+```
+f2会执行吗？结果是执行了！
