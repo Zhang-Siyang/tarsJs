@@ -72,6 +72,18 @@ var go=function f1(){
       f2();
       f2();
 }()
+//等同于
+var a=100;
+function f1(){
+        var a=0;
+        function f2(){
+         a++;
+         console.log(a)
+        }
+      f2();
+      f2();
+}
+f1();
 //解释：结果：1，2 这种闭包结构，首先是f1()执行了，然后执行f2(),f2可以访问a,执行两遍f2(),但是不会被重复var a=0,这一点是为什么？
 function f1(){
         var a=0;
