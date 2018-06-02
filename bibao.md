@@ -49,3 +49,5 @@ f2会执行吗？结果是执行了！
 ---
 
 1.闭包在[javascript高级程序设计](https://baike.baidu.com/item/JavaScript高级程序设计/10576650?fr=aladdin) 一书上的解释：`闭包是指有权访问另一个函数作用域中的变量的函数`！
+
+![重点](https://github.com/TUARAN/PIC/blob/master/js/varx.png)
