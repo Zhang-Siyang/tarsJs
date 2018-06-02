@@ -14,3 +14,4 @@ console.table([
      a[2](),
 ])
 ```
+![](https://github.com/TUARAN/PIC/blob/master/js/bibaotest.png)
