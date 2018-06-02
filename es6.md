@@ -42,5 +42,5 @@ console.table([
 
 就问你神奇不神奇，把var换成了let输出结果就完全不一样了！！！
 
-[这个比较写的还算比较全面](https://blog.csdn.net/nfer_zhuang/article/details/48781671)
+var和let：[这个比较写的还算比较全面](https://blog.csdn.net/nfer_zhuang/article/details/48781671)
 
