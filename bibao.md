@@ -123,6 +123,7 @@ function f1(){
 var c=new f1()
 console.log(c.a);//输出为1
 ```
-
+这样一来就又引入了另外一个重点，这里作初识：
+---
 
 
