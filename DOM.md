@@ -7,3 +7,5 @@
 而window.onload是在dom文档树加载完和所有文件加载完之后执行一个函数。也就是说$(document).ready要比window.onload先执行。
 
 * ![](https://github.com/TUARAN/PIC/blob/master/js/click与on（click）.png)
+
+* [html全局属性](http://www.runoob.com/tags/ref-standardattributes.html)
