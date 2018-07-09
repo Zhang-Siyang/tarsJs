@@ -53,6 +53,6 @@ console.log(a.join(""))//tomjohnted
 ```
 ```
 var b=["tt","gg","oo"]
-console.log(b.reverse());//["oo", "gg", "tt"] 倒叙
+console.log(b.reverse());//["oo", "gg", "tt"] 数组倒序
 ```
 
