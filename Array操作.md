@@ -43,7 +43,7 @@ arra.distinct();    //返回[3,4,2,1]
 ---
 [菜鸟教程：为什么要叫菜鸟教程呢？因为如果连这些还不熟悉，的确挺菜鸟的](http://www.runoob.com/jsref/jsref-obj-array.html)
 
-3.Array对象属性：join(): 回文；
+3.Array对象属性：join():/reverse():/        (面试题“回文”经常出现！)
 ---
 ```
 var a=["tom","john","ted"]
@@ -51,3 +51,8 @@ console.log(a.join());//tom,john,ted  将数组转化成字符串；
 console.log(a.join("."))//tom.john.ted
 console.log(a.join(""))//tomjohnted
 ```
+```
+var b=["tt","gg","oo"]
+console.log(b.reverse());//["oo", "gg", "tt"]
+```
+
