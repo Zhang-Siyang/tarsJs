@@ -9,3 +9,5 @@ js原生之路
 >1. [DOM](https://github.com/TUARAN/tarsJs/blob/master/DOM.md)
 >2. [BOM](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
 >3. [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/ECMAScript.md)
+
+>* BOM
