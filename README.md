@@ -5,4 +5,6 @@ js原生之路
 
 1.JS是世界上最好的语言！
 ===
-* [Dom](https://github.com/TUARAN/tarsJs/blob/master/DOM.md)
+* JAVASCRIPT
+   * [Dom](https://github.com/TUARAN/tarsJs/blob/master/DOM.md)
+   * [Bom](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
