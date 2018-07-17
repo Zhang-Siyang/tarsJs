@@ -11,7 +11,7 @@ js原生之路
 >* [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/ECMAScript.md)
 
 
-* JS基础
+* JAVASCRIPT基础
 >* [数据类型](https://github.com/TUARAN/tarsJs/blob/master/基本类型引用类型.md)
 >* [对象☀]()
 >>* [JavaScript对象]()
