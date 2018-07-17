@@ -24,7 +24,7 @@ js原生之路
 * JAVASCRIPT进阶
    * [浏览器🔥]()
       * [浏览器内核]()
-      * [浏览器控制台调试💻]() [Elments]()|[Console]()|[Sources]()|[Network]()|[Application]()
+      * [浏览器控制台调试💻]() [Elments]()·[Console]()·[Sources]()·[Network]()·[Application]()
     
    * [闭包]()
    * [正则表达式]()
