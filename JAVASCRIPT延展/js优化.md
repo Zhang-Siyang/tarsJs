@@ -1,1 +1,1 @@
-![](https://github.com/TUARAN/pic/blob/master/common/缓存.png)
+![缓存](https://github.com/TUARAN/pic/blob/master/common/缓存.png)
