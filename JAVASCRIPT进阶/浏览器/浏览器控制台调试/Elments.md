@@ -23,4 +23,7 @@ e.g.
 
 3.补充：上面的描述只要不是第一天接触浏览器调试的兄dei都会觉得很sb，Elment就是最最基础的面板，那它有没有不基础的功能呢？
 
+##### 在这之前，看看[谷歌浏览器开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/inspect-styles/edit-dom/) 
+（括弧：我支持了9.9RMB）
+
 
