@@ -46,7 +46,7 @@ js原生之路
    * [面试🍜]()
 
 * JAVASCRIPT☞我的💗🦌💪✖🚌
-   * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/edit/master/💗🦌💪✖.md)
+   * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/❤🦌💪✖.md)
 
 - - -
 
