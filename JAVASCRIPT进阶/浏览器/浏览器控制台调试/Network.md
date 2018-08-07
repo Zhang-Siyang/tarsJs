@@ -17,8 +17,8 @@ post是通过HTTPpost机制，将表单内各个字段与其内容放置在HTML 
 
 [HTTP Request Header 请求头](https://blog.csdn.net/lipeigang1109/article/details/59057525)
 
-[postman 使用post方式提交参数值](https://www.cnblogs.com/haoxuanchen2014/p/7771459.html  )
+[postman 使用post方式提交参数值](https://www.cnblogs.com/haoxuanchen2014/p/7771459.html)
 
-5. ### [Cookie](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Cookies)
+5.[Cookie](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Cookies)
 
 
