@@ -15,10 +15,9 @@ post是通过HTTPpost机制，将表单内各个字段与其内容放置在HTML 
 
 4.get传送的数据量较小，不能大于2KB。post传送的数据量较大，一般被默认为不受限制
 
+[HTTP Request Header 请求头](https://blog.csdn.net/lipeigang1109/article/details/59057525)
 
-https://blog.csdn.net/lipeigang1109/article/details/59057525   HTTP Request Header 请求头
-
-https://www.cnblogs.com/haoxuanchen2014/p/7771459.html  postman 使用post方式提交参数值	
+[postman 使用post方式提交参数值](https://www.cnblogs.com/haoxuanchen2014/p/7771459.html  )
 
 5. ### [Cookie](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Cookies)
 
