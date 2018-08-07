@@ -24,7 +24,7 @@ e.g.
 # SO:
 ### Elment的功能是：“查看已解析的源码HTML中的任一元素，手动修改元素的属性和样式能且只能实时在浏览器里得到反馈”
 
-3.补充：Elment就是最最基础的面板，那它有没有不基础的功能呢？
+3.补充：Elment就是最最基础的面板，没什么多的好说的，如果想了解更多？
 
 ## [谷歌浏览器开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/inspect-styles/) 关于elments的说明
 
