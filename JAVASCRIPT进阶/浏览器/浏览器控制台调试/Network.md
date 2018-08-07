@@ -3,7 +3,7 @@
 
 [Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/network-performance/resource-loading/)
 
-问题：
+记录：
 
 1.通过浏览器输入网址的行为，统一为“GET”方法；
 
