@@ -1,4 +1,10 @@
 
+# 概述：性能
+
+[Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/network-performance/resource-loading/)
+
+问题：
+
 1.通过浏览器输入网址的行为，统一为“GET”方法；
 
 2.GET提交的数据会在地址栏中显示出来，而POST提交，地址栏不会改变；
@@ -13,3 +19,7 @@ post是通过HTTPpost机制，将表单内各个字段与其内容放置在HTML 
 https://blog.csdn.net/lipeigang1109/article/details/59057525   HTTP Request Header 请求头
 
 https://www.cnblogs.com/haoxuanchen2014/p/7771459.html  postman 使用post方式提交参数值	
+
+5. ### Cookie(https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Cookies)
+
+
