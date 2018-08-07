@@ -7,7 +7,7 @@
 post是通过HTTPpost机制，将表单内各个字段与其内容放置在HTML HEADER内一起传送到ACTION属性所指的URL地址。
 用户看不到这个过程。
 
-4. get传送的数据量较小，不能大于2KB。post传送的数据量较大，一般被默认为不受限制
+4.get传送的数据量较小，不能大于2KB。post传送的数据量较大，一般被默认为不受限制
 
 
 https://blog.csdn.net/lipeigang1109/article/details/59057525   HTTP Request Header 请求头
