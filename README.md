@@ -1,7 +1,6 @@
 # Js-
 js原生之路
-怎么说呢？
-#磨剑未十年，休要猖狂
+#工欲善其事必先利其器
 
 一JS是世界上最好的语言！
 ===
@@ -29,7 +28,7 @@ js原生之路
             [Elments](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试/Elments.md)
             [Console]()
             [Sources]()
-            [Network]()
+            [Network](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试/Network.md)
             [Application]()
       * [浏览器相关问题]()		
    * [闭包]()
