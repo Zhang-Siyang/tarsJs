@@ -21,7 +21,7 @@ e.g.
 ![](https://github.com/TUARAN/pic/blob/master/js/elments改.png)
 
 
-# SO
+# SO:
 ### Elment的功能是：“查看已解析的源码HTML中的任一元素，手动修改元素的属性和样式能且只能实时在浏览器里得到反馈”
 
 3.补充：Elment就是最最基础的面板，那它有没有不基础的功能呢？
