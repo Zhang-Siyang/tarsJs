@@ -20,13 +20,13 @@ e.g.
 e.g.
 ![](https://github.com/TUARAN/pic/blob/master/js/elments改.png)
 
+> **总结：Elment的功能是：“查看已解析的源码HTML中的任一元素，手动修改元素的属性和样式能且只能实时在浏览器里得到反馈”
 
-3.补充：上面的描述只要不是第一天接触浏览器调试的兄dei都会觉得很sb，Elment就是最最基础的面板，那它有没有不基础的功能呢？
+3.补充：Elment就是最最基础的面板，那它有没有不基础的功能呢？
 
-## 在这之前，看看[谷歌浏览器开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/inspect-styles/) 关于elments的说明
-（括弧：我支持了9.9RMB，如果我有一百万，我就捐五十万😕）
+## [谷歌浏览器开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/inspect-styles/) 关于elments的说明
 
->编辑DOM是在Elemnts比较关键的操作！
+编辑DOM是在Elemnts比较关键的操作！
 
 
 
