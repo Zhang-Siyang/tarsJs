@@ -39,7 +39,7 @@ js原生之路
 
 * JAVASCRIPT延展
    * [问题❀遗漏]()
-   * [性能优化]()
+   * [性能优化](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/js优化.md)
    * [兼容问题]()
    * [网络相关]()
    * [面试🍜]()
