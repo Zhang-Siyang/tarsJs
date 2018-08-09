@@ -4,7 +4,7 @@ js原生之路
 
 一JS是世界上最好的语言！
 ===
->怎么说呢？到底该怎么说呢？天生笨拙，只得相信勤能补拙，尽心尽力的去经营它，无恨！
+>天将降大任于我！
 * JAVASCRIPT
    * [DOM](https://github.com/TUARAN/tarsJs/blob/master/DOM.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
