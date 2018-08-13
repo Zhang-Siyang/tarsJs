@@ -15,3 +15,5 @@ if(this.index==now)return;
 如果this.index等于now，就返回，后面的语句也就不再执行，如果不等于now，就把this.index赋给now
 
 *[为什么行内元素a可以包裹div这种块级元素？](https://segmentfault.com/q/1010000000762236/)
+
+*isNaN：(非数字)
