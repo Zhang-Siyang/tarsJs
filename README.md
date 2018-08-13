@@ -36,7 +36,7 @@ js原生之路
    * [原型链]()
    * [ES6]()
    * [跨域]()
-   * [强制类型转换]()
+   * [强制类型转换](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/强制类型转换.md)
 
 * JAVASCRIPT延展
    * [问题❀遗漏]()
