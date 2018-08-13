@@ -4,7 +4,7 @@ js原生之路
 
 一JS是世界上最好的语言！
 ===
->天将降大任于我！
+>天将降大任于斯人也
 * JAVASCRIPT
    * [DOM](https://github.com/TUARAN/tarsJs/blob/master/DOM.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
