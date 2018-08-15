@@ -51,6 +51,7 @@ JS是世界上最好的语言！
 - - -
 规范说明：
 * 以# number的形式对每个.md文件进行分级；
+* 以“思路”为导向；
 - - -
 引用文档：
 * [1][Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
