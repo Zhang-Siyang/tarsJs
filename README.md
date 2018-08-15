@@ -6,7 +6,7 @@ js原生之路
 ===
 >天将降大任于斯人也
 * JAVASCRIPT
-   * [DOM](https://github.com/TUARAN/tarsJs/blob/master/DOM.md)
+   * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/ECMAScript.md)
    * [Javascript History](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/Javascipt%20History.md)
