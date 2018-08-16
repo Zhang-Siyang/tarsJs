@@ -24,7 +24,7 @@ JS是世界上最好的语言！
 * JAVASCRIPT进阶
    * [浏览器🔥]()
       * [浏览器内核]()
-      * [浏览器控制台调试j📏](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试)<br>
+      * [浏览器控制台调试📏](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试)<br>
             * [Elments](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试/Elments.md)<br>
             * [Console]()<br>
             * [Sources]()<br>
