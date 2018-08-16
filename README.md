@@ -4,7 +4,7 @@ js原生之路
 
 JS是世界上最好的语言！
 ===
->我只生产思路，不做灵感的搬运工
+>我只想生产思路，不想做灵感的搬运工
 * JAVASCRIPT
    * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
