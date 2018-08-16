@@ -30,6 +30,7 @@ JS是世界上最好的语言！
             [Sources]()
             [Network](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试/Network.md)
             [Application]()
+            [Performance✌](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试/Performance.md) 
       * [浏览器相关问题]()		
    * [闭包](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/闭包.md)
    * [正则表达式](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/正则表达式.md)
