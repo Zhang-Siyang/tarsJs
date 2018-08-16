@@ -55,4 +55,4 @@ JS是世界上最好的语言！
 - - -
 引用文档：
 * [1][Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
-* [2][MDN-Mozilla Developer Network](https://developer.mozilla.org) [MDN缘由](https://www.jianshu.com/p/f1d3be17f0c6)
+* [2][MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) [MDN缘由](https://www.jianshu.com/p/f1d3be17f0c6)
