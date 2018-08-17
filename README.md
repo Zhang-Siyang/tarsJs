@@ -40,11 +40,11 @@ JS是世界上最好的语言！
    * [强制类型转换](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/强制类型转换.md)
 
 * JAVASCRIPT延展
-   * [问题❀遗漏](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/js相关遗漏.md)
+   * [问题❀遗漏](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/问题遗漏.md)
    * [性能优化](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/性能优化.md)
    * [兼容问题]()
    * [网络相关]()
-   * [面试🍜]()
+   * [面试🍜](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/面试.md)
 
 * JAVASCRIPT☞我的💗🦌💪✖🚌
    * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/❤🦌💪✖.md)
