@@ -4,7 +4,7 @@ js原生之路
 
 JS是世界上最好的语言！
 ===
->我只想生产思路，不想做灵感的搬运工
+>百万秦关终属楚，三千越甲可吞吴
 * JAVASCRIPT
    * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
