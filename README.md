@@ -40,8 +40,8 @@ js原生之路
    * [强制类型转换](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/强制类型转换.md)
 
 * JAVASCRIPT延展
-   * [经典问题❀](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/问题遗漏.md)
-   * [性能优化](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/性能优化.md)
+   * [经典问题❀](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/经典问题❀.md)
+   * [性能优化※](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/性能优化.md)
    * [兼容问题]()
    * [网络相关]()
    * [面试🍜](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/面试.md)
