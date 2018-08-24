@@ -18,7 +18,6 @@ js原生之路
       * [JavaScript对象]()
       * [Browser对象]()
       * [DOM 对象]()
-      * [HTML对象]()
    * [函数]()
 
 * JAVASCRIPT进阶
