@@ -25,7 +25,7 @@ js原生之路
             * [JsMath]()<br>
             * 艾瑞得特麦斯👳<br>
             * [JsRegExp]()<br>
-            * [JsFunction]()<br>
+            * [JsFunctions]()<br>
             * [JsEvents]()<br> 
             * 正则函数事件🔟
       * [Browser对象]()
