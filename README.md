@@ -15,8 +15,7 @@ js原生之路
 * JAVASCRIPT基础
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/基本类型引用类型.md)
    * [对象☀](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象)
-      * [JavaScript对象]()<br>
-            👭👳🔟：<br>
+      * [JavaScript对象👭👳🔟]()<br>
             * [JsBoolean]()<br>
             * [JsNumber]()<br>
             * [JsString]()<br>
@@ -27,7 +26,7 @@ js原生之路
             * [JsFunctions]()<br>
             * [JsEvents]()<br> 
             * [Browser对象]()<br>
-            🗺：<br>
+        *[BOM对象🗺]<br>
             * [Window]()<br>
             * [Navigator]()<br>
             * [Screen]()<br>
