@@ -27,7 +27,7 @@ js原生之路
             * [JsFunctions]()<br>
             * [JsEvents]()<br> 
       * [Browser对象]()<br>
-            * 窗户浏览器屏幕历史位置🗺:<br>
+*窗户浏览器屏幕历史位置🗺:*<br>
             * [Window]()<br>
             * [Navigator]()<br>
             * [Screen]()<br>
