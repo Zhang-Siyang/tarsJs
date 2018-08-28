@@ -16,7 +16,7 @@ js原生之路
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/基本类型引用类型.md)
    * [对象☀](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象)
       * [JavaScript对象]()<br>
-            * 布隆兰博石军👭艾瑞得特麦斯👳正则函数事件🔟<br>
+*布隆兰博石军👭艾瑞得特麦斯👳正则函数事件🔟*<br>
             * [JsBoolean]()<br>
             * [JsNumber]()<br>
             * [JsString]()<br>
