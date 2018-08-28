@@ -26,7 +26,7 @@ js原生之路
             * [JsFunctions]()<br>
             * [JsEvents]()<br> 
             * [Browser对象]()<br>
-        *[BOM对象🗺]<br>
+      * [BOM对象🗺]()<br>
             * [Window]()<br>
             * [Navigator]()<br>
             * [Screen]()<br>
