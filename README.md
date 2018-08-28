@@ -15,7 +15,7 @@ js原生之路
 * JAVASCRIPT基础
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/基本类型引用类型.md)
    * [万物皆对象](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象)
-      * [JavaScript对象👭👳🔟]()<br>
+      * [JavaScript对象👳]()<br>
             * [JsBoolean]()<br>
             * [JsNumber]()<br>
             * [JsString]()<br>
