@@ -7,8 +7,8 @@ js原生之路
 >百万秦关终属楚，三千越甲可吞吴
 * JAVASCRIPT
    * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
-   * [BOM](https://github.com/TUARAN/tarsJs/blob/master/BOM.md)
-   * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/ECMAScript.md)
+   * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/BOM.md)
+   * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/ECMAScript.md)
    * [Javascript History](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/Javascipt%20History.md)
 
 
