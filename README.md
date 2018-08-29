@@ -16,15 +16,15 @@ js原生之路
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT基础/数据类型.md)
    * [万物皆对象](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象)
       * [JavaScript对象👳]()<br>
-             1. [Boolean Number String]()<br>
-             2. [Array Date Math]()<br>
-             3. [RegExp Functions Events]()<br>
+             [Boolean Number String]()<br>
+             [Array Date Math]()<br>
+             [RegExp Functions Events]()<br>
       * [BOM对象🐘]()<br>
-             1. [Window]()<br>
-             2. [Navigator]()<br>
-             3. [Screen]()<br>
-             4. [History]()<br>
-             5. [Location]()<br>
+             [Window]()<br>
+             [Navigator]()<br>
+             [Screen]()<br>
+             [History]()<br>
+             [Location]()<br>
       * [DOM 对象]()
 
 * JAVASCRIPT进阶
