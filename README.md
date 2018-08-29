@@ -20,11 +20,11 @@ js原生之路
              [Array Date Math]()<br>
              [RegExp Functions Events]()<br>
       * [BOM对象🐘]()<br>
-             [Window]()<br>
-             [Navigator]()<br>
-             [Screen]()<br>
-             [History]()<br>
-             [Location]()<br>
+             [Window]()
+             [Navigator]()
+             [Screen]()
+             [History]()
+             [Location]()
       * [DOM 对象]()
 
 * JAVASCRIPT进阶
