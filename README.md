@@ -19,7 +19,7 @@ js原生之路
             * [Boolean Number String]()<br>
             * [Array Date Math]()<br>
             * [RegExp Functions Events]()<br>
-      * [BOM对象🐘]()<br>
+      * [BOM对象🐘🐘]()<br>
             * [Window]()<br>
             * [Navigator]()<br>
             * [Screen]()<br>
