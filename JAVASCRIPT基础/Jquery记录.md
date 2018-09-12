@@ -39,6 +39,7 @@ prependTo	|B.prependTo(A),同prepend
 [jQuery里面的普通绑定事件和on委托事件](https://www.cnblogs.com/wufangfang/p/5333007.html)
 ```
 //hover事件的事件委托：
+
 $('ul').on('mouseenter', 'li', function() {//绑定鼠标进入事件
     $(this).addClass('hover');
 });
