@@ -35,3 +35,5 @@ appendTo|	B.appendTo(A),同append，只是书写顺序不一样
 prepend	|A.prepend(B),把B加入A的内部的前面。如果B在页面上存在，则删除原来位置的B
 prependTo	|B.prependTo(A),同prepend
 
+# 5
+[jQuery里面的普通绑定事件和on委托事件](https://www.cnblogs.com/wufangfang/p/5333007.html)
