@@ -9,7 +9,7 @@ js原生之路
    * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/BOM.md)
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/ECMAScript.md)
-   * [Javascript History](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/Javascipt%20History.md)
+   * [JavaScript History](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/Javascipt%20History.md)
 
 
 * 基础
