@@ -12,7 +12,7 @@ js原生之路
    * [Javascript History](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/Javascipt%20History.md)
 
 
-* BASIS
+* 基础
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT基础/数据类型.md)
    * [万物皆对象🐘](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象)
       * [ECMAScipt对象]()<br>
@@ -35,7 +35,7 @@ js原生之路
       * [DOM 对象]()
     * [JQ!](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT基础/Jquery记录.md)
 
-* ADVANCE
+* 进阶
    * [浏览器🌏](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT%E8%BF%9B%E9%98%B6/%E6%B5%8F%E8%A7%88%E5%99%A8)
       * [浏览器内核]()
       * [浏览器控制台调试](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/浏览器/浏览器控制台调试)<br>
@@ -53,7 +53,7 @@ js原生之路
    * [跨域](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT%E8%BF%9B%E9%98%B6/%E8%B7%A8%E5%9F%9F.md)
    * [强制类型转换](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT进阶/强制类型转换.md)
 
-* EXPLORE
+* 探索
    * [算法题](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/算法题.md)
    * [经典问题❀](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/经典问题❀.md)
    * [性能优化※](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/性能优化.md)
