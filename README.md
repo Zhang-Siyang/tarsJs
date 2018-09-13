@@ -54,7 +54,7 @@ js原生之路
    * [网络相关](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT%E5%BB%B6%E5%B1%95/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
    * [面试🍜](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT延展/面试.md)
 
-* JAVASCRIPT☞我的💗🦌💪✖
+* JAVASCRIPT☞💗🦌💪✖
    * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/❤🦌💪✖.md)
 
 - - -
