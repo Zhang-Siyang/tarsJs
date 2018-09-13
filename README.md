@@ -25,7 +25,7 @@ js原生之路
              [RegExp]()
              [Functions]()
              [Events]()<br>
-             [Object]()
+             [Object🤘]()
       * [BOM对象]()<br>
              [Window]()
              [Navigator]()
