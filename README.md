@@ -16,9 +16,9 @@ js原生之路
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT基础/数据类型.md)
    * [万物皆对象🐘](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象)
       * [JavaScript对象]()<br>
-             [Boolean Number String]()<br>
-             [Array Date Math]()<br>
-             [RegExp Functions Events]()<br>
+             [Boolean]()[Number]()[String]()<br>
+             [Array]()[Date]()[Math]()<br>
+             [RegExp]()[Functions]()[Events]()<br>
       * [BOM对象]()<br>
              [Window]()
              [Navigator]()
