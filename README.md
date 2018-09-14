@@ -5,10 +5,10 @@ js原生之路
 ### JS是世界上最好的语言！
 ===============================
 >百万秦关终属楚，三千越甲可吞吴
-* JavaScript init
-   * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
-   * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/BOM.md)
+* JavaScript
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/ECMAScript.md)
+   * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/BOM.md)
+   * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
    * [JavaScript History](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/Javascipt%20History.md)
 
 
