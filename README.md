@@ -14,7 +14,8 @@ js原生之路
 
 * 基础
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT基础/数据类型.md)
-   * [万物皆对象🐘](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象)
+   * [万物皆对象🐘](https://github.com/TUARAN/tarsJs/tree/master/JAVASCRIPT基础/对象) 
+   <font color=#00ffff size=72>-分级思路引自w3c</font>
       * [ECMAScipt对象]()<br>
              [Boolean]()
              [Number]()
@@ -35,6 +36,10 @@ js原生之路
              [Location]()
              
       * [DOM 对象]()
+             [Document]()
+             [Element]()
+             [Attribute]()
+             [Event]()
     * [JQ!](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT基础/Jquery记录.md)
 
 * 进阶
