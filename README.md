@@ -26,12 +26,14 @@ js原生之路
              [Functions]()
              [Events]()<br>
              [Object💕]()
+             
       * [BOM对象]()<br>
              [Window]()
              [Navigator]()
              [Screen]()
              [History]()
              [Location]()
+             
       * [DOM 对象]()
     * [JQ!](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT基础/Jquery记录.md)
 
