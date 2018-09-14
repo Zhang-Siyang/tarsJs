@@ -6,10 +6,10 @@ js原生之路
 =====
 >百万秦关终属楚，三千越甲可吞吴
 * JavaScript
-   * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/ECMAScript.md)
-   * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/BOM.md)
-   * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/DOM.md)
-   * [JavaScript History](https://github.com/TUARAN/tarsJs/blob/master/JAVASCRIPT/Javascipt%20History.md)
+   * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/ECMAScript.md)
+   * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/BOM.md)
+   * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/DOM.md)
+   * [JavaScript History](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/JavaScript History.md)
 
 
 * 基础
