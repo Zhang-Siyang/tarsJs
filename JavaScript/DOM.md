@@ -1,7 +1,6 @@
 # 1
 >DOM:文档对象模型（Document Object Model）
 
-[DOM对象]()
 
 * ![](https://github.com/TUARAN/PIC/blob/master/js/捕获冒泡.png)
 
