@@ -32,7 +32,7 @@ js原生之路
              [Navigator]()
              [Screen]()
              [History]()
-             [Location]()
+             [Location](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/BOM%E5%AF%B9%E8%B1%A1/Location.md)
              
       * [DOM 对象]()<br>
              [Document]()
