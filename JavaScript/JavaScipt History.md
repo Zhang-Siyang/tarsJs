@@ -4,7 +4,7 @@
 # 3
 ['它的优秀之处并非原创，它的原创之处并不优秀](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
 
-R-point：
+Remind-point：
 >网景公司开发第一款浏览器Navigator浏览器0.9版
 
 >需求：网页脚本语言
