@@ -25,7 +25,7 @@ js原生之路
              [RegExp](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/ECMAScript%E5%AF%B9%E8%B1%A1/RegExp.md)
              [Functions](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/ECMAScript%E5%AF%B9%E8%B1%A1/Functions.md)
              [Events](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/ECMAScript%E5%AF%B9%E8%B1%A1/Events.md)<br>
-             [Object](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/ECMAScript%E5%AF%B9%E8%B1%A1/Object.md)💑
+             [Object](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/ECMAScript%E5%AF%B9%E8%B1%A1/Object.md)
              
       * [BOM对象](https://github.com/TUARAN/tarsJs/tree/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/BOM%E5%AF%B9%E8%B1%A1)<br>
              [Window](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1/BOM%E5%AF%B9%E8%B1%A1/Window.md)
