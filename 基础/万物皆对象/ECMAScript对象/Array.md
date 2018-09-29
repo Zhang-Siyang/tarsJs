@@ -100,3 +100,29 @@ unshift()	向数组的开头添加一个或更多元素，并返回新的长度�
 
 valueOf()	返回数组对象的原始值。
 
+# 5.两个Array数组中是否有重复的值
+```
+Array.ExistsSameValues = function(a1, a2) {
+    var exists = false;
+    if(a1 instanceof Array && a2 instanceof Array)
+    {
+        for (var i=0,iLen=a1.length; i<iLen; i++)
+        {
+            for (var j=0,jLen=a2.length; j<jLen; j++)
+            {
+                if (a1[i]===a2[j])
+                {
+                   console.log(a1[i]);
+                }
+            }
+        }
+    }
+    return exists;
+};
+ 
+var a1 = [1, 2, 5, 8];
+var a2 = [3, 1, 9, 5];
+Array.ExistsSameValues(a1, a2);
+```
+
+
