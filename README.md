@@ -78,6 +78,7 @@ js原生之路
 引用文档：
 * [1][Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
 * [2][MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) —— [MDN历史](https://www.jianshu.com/p/f1d3be17f0c6)
+* [3][jQuery Api中文文档](http://jquery.cuishifeng.cn/index.html)
 - - -
 [velocity](https://www.cnblogs.com/avivaye/p/4418878.html)
 
