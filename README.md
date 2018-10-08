@@ -80,7 +80,6 @@
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t3.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t4.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t5.png)&nbsp;
-</br>
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t6.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t7.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t8.png)&nbsp;
@@ -92,7 +91,6 @@
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t13.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t14.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t15.png)&nbsp;
-</br>
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t16.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t17.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t18.png)&nbsp;
