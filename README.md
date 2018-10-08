@@ -95,7 +95,6 @@
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t18.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t19.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t20.png)&nbsp;
-![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t21.png)
 - - -
 模板引擎：
 * [velocity](https://www.cnblogs.com/avivaye/p/4418878.html)
