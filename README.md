@@ -74,6 +74,7 @@
 引用文档：
 * [1][Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
 * [2][MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) —— [MDN历史](https://www.jianshu.com/p/f1d3be17f0c6)
+* [css88](http://www.css88.com)
 
 [![](https://github.com/TUARAN/pic/blob/master/js/t1.png)](http://jquery.cuishifeng.cn)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t2.png)](http://www.css88.com/book/css/)&nbsp;
@@ -96,7 +97,6 @@
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t18.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t19.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t20.png)&nbsp;
-[css88](http://www.css88.com)&nbsp;
 - - -
 模板引擎：
 * [velocity](https://www.cnblogs.com/avivaye/p/4418878.html)
