@@ -78,8 +78,8 @@
 ![http://jquery.cuishifeng.cn](https://github.com/TUARAN/pic/blob/master/js/t1.png)&nbsp;
 ![http://www.css88.com/book/css/](https://github.com/TUARAN/pic/blob/master/js/t2.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t3.png)&nbsp;
-![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t4.png)&nbsp;
-![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t5.png)&nbsp;
+![http://www.css88.com/doc/chrome-devtools/](https://github.com/TUARAN/pic/blob/master/js/t4.png)&nbsp;
+![http://www.css88.com/dev/](https://github.com/TUARAN/pic/blob/master/js/t5.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t6.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t7.png)&nbsp;
 ![https://reactjs.org/docs/hello-world.html](https://github.com/TUARAN/pic/blob/master/js/t8.png)&nbsp;
