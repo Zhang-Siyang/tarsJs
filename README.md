@@ -1,7 +1,3 @@
-# Js-
-js原生之路
-#工欲善其事必先利其器
-
 ### JavaScript is the best language in the world.
 =====
 >百万秦关终属楚，三千越甲可吞吴
