@@ -113,4 +113,4 @@
 ---
 Rank:
 
-[前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
+* [前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
