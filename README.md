@@ -89,8 +89,8 @@ js原生之路
 - - -
 人物：
 
-[Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
-[Tim Berners-Lee](https://baike.baidu.com/item/蒂姆·伯纳斯·李?fromtitle=Tim+Berners-Lee&fromid=1836386)
-[Brendan Eich](https://baike.baidu.com/item/Brendan%20Eich)
-[John Resig](https://baike.baidu.com/item/John%20Resig/6336344?fr=aladdin)
-[Lars Bak](https://baike.baidu.com/item/拉斯·巴克/4489230?fr=aladdin)
+* [Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
+* [Tim Berners-Lee](https://baike.baidu.com/item/蒂姆·伯纳斯·李?fromtitle=Tim+Berners-Lee&fromid=1836386)
+* [Brendan Eich](https://baike.baidu.com/item/Brendan%20Eich)
+* [John Resig](https://baike.baidu.com/item/John%20Resig/6336344?fr=aladdin)
+* [Lars Bak](https://baike.baidu.com/item/拉斯·巴克/4489230?fr=aladdin)
