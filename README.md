@@ -85,7 +85,7 @@ js原生之路
 - - -
 模板引擎：
 * [velocity](https://www.cnblogs.com/avivaye/p/4418878.html)
-* [trimpath](http://ylq365.iteye.com/blog/1667762)
+* [trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)
 - - -
 人物：
 
