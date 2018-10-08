@@ -109,3 +109,4 @@
 * [JavaScript发明人-Brendan Eich](https://baike.baidu.com/item/Brendan%20Eich)
 * [Jquery创始人-John Resig](https://baike.baidu.com/item/John%20Resig/6336344?fr=aladdin)
 * [V8引擎开发者-Lars Bak](https://baike.baidu.com/item/拉斯·巴克/4489230?fr=aladdin)
+* [尤雨溪](https://baike.baidu.com/item/尤雨溪/2281470?fr=aladdin)
