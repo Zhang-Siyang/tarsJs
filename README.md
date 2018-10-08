@@ -1,7 +1,6 @@
 ### JavaScript is the best language in the world.
 
-
->百万秦关终属楚，三千越甲可吞吴
+>百二秦关终属楚，三千越甲可吞吴
 * JavaScript
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/ECMAScript.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/BOM.md)
