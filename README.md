@@ -111,6 +111,6 @@
 * [V8引擎开发者-Lars Bak](https://baike.baidu.com/item/拉斯·巴克/4489230?fr=aladdin)
 * [vue作者-尤雨溪](https://baike.baidu.com/item/尤雨溪/2281470?fr=aladdin)
 ---
-RANK:
+Rank:
 
 [前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
