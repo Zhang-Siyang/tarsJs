@@ -104,6 +104,9 @@
 *[velocity](https://www.cnblogs.com/avivaye/p/4418878.html)*
 *[trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)*
 - - -
+插件：
+* [Validform表单验证](https://blog.csdn.net/qq_21128613/article/details/47956399)
+- - -
 人物：
 
 * [计算机科学之父-Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
