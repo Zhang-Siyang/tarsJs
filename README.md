@@ -66,13 +66,13 @@
 * 记录
    * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
 
-- - -
+
 # I mark
-### 规范说明：
+##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
 * 以“经历”+“经验”+“思路”为导向；
 
-引用文档：
+##### 引用文档：
 * [1][Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
 * [2][MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) —— [MDN历史](https://www.jianshu.com/p/f1d3be17f0c6)
 * [css88](http://www.css88.com)
@@ -99,17 +99,17 @@
 [![](https://github.com/TUARAN/pic/blob/master/js/t19.png)](http://tool.chinaz.com/Tools/jsformat.aspx)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t20.png)](http://sass.bootcss.com/docs/sass-reference/)&nbsp;
 *  [w3school.com.cn](http://www.w3school.com.cn/jsref/index.asp) [w3cschool.cn](https://www.w3cschool.cn) [w3.org](https://www.w3.org) 
-- - -
-模板引擎：
+
+##### 模板引擎：
 * [jsp](https://baike.baidu.com/item/JSP/141543?fr=aladdin)
 [freemarker](http://freemarker.foofun.cn)
 *[velocity](https://www.cnblogs.com/avivaye/p/4418878.html)*
 *[trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)*
-- - -
-插件：
+
+##### 插件：
 * 表单验证-[Validform](http://validform.rjboy.cn/document.html) [VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)
-- - -
-人物：
+
+##### 人物：
 
 * [计算机科学之父-Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
 * [万维网之父-Tim Berners-Lee](https://baike.baidu.com/item/蒂姆·伯纳斯·李?fromtitle=Tim+Berners-Lee&fromid=1836386)
@@ -117,7 +117,7 @@
 * [Jquery创始人-John Resig](https://baike.baidu.com/item/John%20Resig/6336344?fr=aladdin)
 * [V8引擎开发者-Lars Bak](https://baike.baidu.com/item/拉斯·巴克/4489230?fr=aladdin)
 * [vue作者-尤雨溪](https://baike.baidu.com/item/尤雨溪/2281470?fr=aladdin)
----
-Rank:
+
+##### Rank:
 
 * [前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
