@@ -1,9 +1,9 @@
 
-# 概述：性能
+# 1
 
 [Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/network-performance/resource-loading/)
 
-## 记录：
+## 2
 
 1.通过浏览器输入网址的行为，统一为“GET”方法；
 
