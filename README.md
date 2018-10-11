@@ -120,3 +120,7 @@
 ##### Rank:
 
 * [前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
+
+#### 关键英语单词：
+
+syntax——句法
