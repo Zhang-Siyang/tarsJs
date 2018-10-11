@@ -123,7 +123,7 @@
 
 ##### 关键英语单词：
 
-syntax——句法
+[syntax](https://www.baidu.com/baidu?wd=syntax&tn=54002054_dg&ie=utf-8)
 
 ##### 奇妙数字：
 
