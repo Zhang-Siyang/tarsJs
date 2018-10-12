@@ -99,8 +99,8 @@
 *  [4][w3school.com.cn](http://www.w3school.com.cn/jsref/index.asp) [w3cschool.cn](https://www.w3cschool.cn) [w3.org](https://www.w3.org) [runoob](http://www.runoob.com)
 
 ##### 模板引擎：
-* [jsp](https://baike.baidu.com/item/JSP/141543?fr=aladdin)
-[freemarker](http://freemarker.foofun.cn)
+* *[jsp](https://baike.baidu.com/item/JSP/141543?fr=aladdin)*
+*[freemarker](http://freemarker.foofun.cn)*
 *[velocity](https://www.cnblogs.com/avivaye/p/4418878.html)*
 *[trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)*
 
