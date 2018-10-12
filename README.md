@@ -105,7 +105,7 @@
 *[trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)*
 
 ##### 插件：
-* 表单验证-[Validform](http://validform.rjboy.cn/document.html) [VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)
+* *[Validform](http://validform.rjboy.cn/document.html)* *[VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)*
 
 ## Have fun
 ##### 人物：
