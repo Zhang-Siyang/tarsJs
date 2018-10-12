@@ -97,7 +97,7 @@
 [![](https://github.com/TUARAN/pic/blob/master/js/t19.png)](http://tool.chinaz.com/Tools/jsformat.aspx)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t20.png)](http://sass.bootcss.com/docs/sass-reference/)&nbsp;
 *  [4][w3school.com.cn](http://www.w3school.com.cn/jsref/index.asp) [w3cschool.cn](https://www.w3cschool.cn) [w3.org](https://www.w3.org) [runoob](http://www.runoob.com)
-* [5][腾讯云开发者手册](https://cloud.tencent.com/developer/devdocs)🐧
+* [5][腾讯云·开发者手册](https://cloud.tencent.com/developer/devdocs)🐧
 ##### 模板引擎：
 * *[jsp](https://baike.baidu.com/item/JSP/141543?fr=aladdin)*
 *[freemarker](http://freemarker.foofun.cn)*
