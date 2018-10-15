@@ -74,7 +74,7 @@
   * [CSS中的transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
 
 * css兼容
-  * [兼容record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
+  * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br> 
 
 >## *plus...*
