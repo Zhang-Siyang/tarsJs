@@ -60,7 +60,7 @@
    * [兼容问题](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
    * [网络相关](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
    * [面试](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E9%9D%A2%E8%AF%95.md)🍜
-<br>  
+<br>
 
 >## *CSS Make it more beautiful.* 
 * css3
@@ -75,6 +75,19 @@
 * css兼容
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br> 
+
+>## *Git,Embrace open source and embrace the future*
+
+* github desktop：
+
+    * 下载[github desktop](https://desktop.github.com "点击进入下载页")。
+    * 连接本地github和远程github仓库。
+    * 在本地创建仓库。
+    * 本地对仓库进行修改并且commit。
+    * 最后进行pulish到远程仓库（注意设置：取消隐私仓库勾选）。
+
+* [README.md](https://blog.csdn.net/kaitiren/article/details/38513715 "书写教程")：
+<br>
 
 >## *plus...*
 
