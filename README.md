@@ -65,7 +65,12 @@
 * 记录
    * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
    
->## *CSS Make it more beautiful*  
+>## *CSS Make it more beautiful* 
+* css适配
+  * [dpr](https://www.cnblogs.com/mtl-key/p/7126634.html)
+  * [dpr](https://www.cnblogs.com/liujn0829/p/7909218.html)
+  * [rem](https://blog.csdn.net/honeymao/article/details/76795089)
+  
 >## *plus lalala,lalala*
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
