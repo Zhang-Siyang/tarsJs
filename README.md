@@ -6,7 +6,6 @@
    * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/DOM.md)
    * [JavaScript History](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/JavaScipt%20History.md)
 
-
 * 基础
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
    * [万物皆对象](https://github.com/TUARAN/tarsJs/tree/master/%E5%9F%BA%E7%A1%80/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1)🐘
@@ -64,7 +63,7 @@
    
 * 记录
    * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
-   
+<br>   
 >## *CSS Make it more beautiful* 
 * css适配
 
@@ -77,7 +76,7 @@
 
 * css兼容
   * [兼容record]()
-  
+<br>   
 >## *plus lalala,lalala*
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
