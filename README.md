@@ -63,8 +63,11 @@
 <br>  
 
 >## *CSS Make it more beautiful.* 
-* css适配
 
+* css规范
+  * BEM规则：[BEM](https://www.w3cplus.com/css/bem-definitions.html) [+](https://segmentfault.com/a/1190000000391762)
+  
+* css适配
   * [dpr](https://www.cnblogs.com/mtl-key/p/7126634.html) [dpr](https://www.cnblogs.com/liujn0829/p/7909218.html) [rem](https://blog.csdn.net/honeymao/article/details/76795089)
   
 * css3
