@@ -60,9 +60,6 @@
    * [兼容问题](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
    * [网络相关](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
    * [面试](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E9%9D%A2%E8%AF%95.md)🍜
-   
-* 记录
-   * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
 <br>  
 
 >## *CSS Make it more beautiful.* 
@@ -80,6 +77,9 @@
 <br> 
 
 >## *plus...*
+
+* [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
+
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
 * 以“经历”+“经验”+“思路”为导向；
