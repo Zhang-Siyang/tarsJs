@@ -62,7 +62,7 @@
    * [面试](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E9%9D%A2%E8%AF%95.md)🍜
 <br>
 
-## *CSS* 
+## *Css* 
 * css3
   * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
   
@@ -82,7 +82,7 @@
 
 <br>
 
-## *plus*
+## *Plus*
 
 * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
 
