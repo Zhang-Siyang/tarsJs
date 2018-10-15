@@ -1,4 +1,4 @@
->## *JavaScriptis the best language in the world.*
+## *JavaScriptis the best language in the world.*
 
 * JavaScript
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/ECMAScript.md)
@@ -62,7 +62,7 @@
    * [面试](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E9%9D%A2%E8%AF%95.md)🍜
 <br>
 
->## *CSS Make it more beautiful.* 
+## *CSS Make it more beautiful.* 
 * css3
   * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
   
@@ -76,13 +76,13 @@
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br> 
 
->## *Git,Embrace open source and embrace the future.*
+## *Git,Embrace open source and embrace the future.*
 
 * [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 
 <br>
 
->## *plus...*
+## *plus...*
 
 * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
 
