@@ -1,4 +1,4 @@
-## JavaScript is the best language in the world.
+## *JavaScriptis the best language in the world.*
 
 * JavaScript
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/ECMAScript.md)
