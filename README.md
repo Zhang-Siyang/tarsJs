@@ -65,10 +65,13 @@
 >## *CSS Make it more beautiful.* 
 * css3
   * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
+  
 * css规范
-  * [BEM](https://www.w3cplus.com/css/bem-definitions.html) [+](https://segmentfault.com/a/1190000000391762)  
+  * [BEM](https://www.w3cplus.com/css/bem-definitions.html) [+](https://segmentfault.com/a/1190000000391762) 
+  
 * css适配
   * [dpr](https://www.cnblogs.com/mtl-key/p/7126634.html) [dpr](https://www.cnblogs.com/liujn0829/p/7909218.html) [rem](https://blog.csdn.net/honeymao/article/details/76795089) 
+  
 * css兼容
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br> 
