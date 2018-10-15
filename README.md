@@ -142,10 +142,6 @@
 
 * [前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
 
-##### 单词：
-
-* [syntax](https://www.baidu.com/baidu?wd=syntax&tn=54002054_dg&ie=utf-8)
-
 ##### 数字：
 
 * 2147483647
