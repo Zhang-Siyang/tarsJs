@@ -78,7 +78,7 @@
 
 >## *Git,Embrace open source and embrace the future.*
 
-* [github desktop](https://github.com/TUARAN/tarsJs/edit/master/git/git.md)
+* [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 
 <br>
 
