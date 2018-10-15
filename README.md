@@ -100,7 +100,7 @@
 [![](https://github.com/TUARAN/pic/blob/master/js/t3.png)](https://reactjs.org/docs/hello-world.html)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t4.png)](http://www.css88.com/doc/chrome-devtools/)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t5.png)](http://www.css88.com/dev)&nbsp;
-[![](https://github.com/TUARAN/pic/blob/master/js/t6.png)](http://www.codesnippet.cn/list.html)&nbsp;
+[![](https://github.com/TUARAN/pic/blob/master/js/t6.png)](https://github.com/30-seconds/30-seconds-of-code#table-of-contents)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t7.png)](http://www.css88.com/doc/parcel/getting_started.html)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t8.png)](http://webpack.css88.com)&nbsp;
 [![](https://github.com/TUARAN/pic/blob/master/js/t9.png)](https://www.babeljs.cn/docs/usage/api/)&nbsp;
