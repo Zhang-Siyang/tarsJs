@@ -79,7 +79,7 @@
   * [兼容record]()
 <br> 
 
->## *plus lalala,lalala*
+>## *plus lalala,lalala...*
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
 * 以“经历”+“经验”+“思路”为导向；
