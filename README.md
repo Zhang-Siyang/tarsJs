@@ -66,7 +66,7 @@
    * [💗🦌💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
    
 ## *CSS Make it more beautiful*  
-
+## *plus lalala,lalala*
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
 * 以“经历”+“经验”+“思路”为导向；
@@ -108,7 +108,7 @@
 ##### 插件：
 * *[Validform](http://validform.rjboy.cn/document.html)* *[VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)*
 
-### Have fun
+### fun
 ##### 人物：
 
 * [Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
