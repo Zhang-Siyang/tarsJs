@@ -62,7 +62,7 @@
    * [面试](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E9%9D%A2%E8%AF%95.md)🍜
 <br>
 
-## *CSS Make it more beautiful.* 
+## *CSS* 
 * css3
   * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
   
@@ -76,7 +76,7 @@
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br> 
 
-## *Git,Embrace open source and embrace the future.*
+## *Git*
 
 * [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 
