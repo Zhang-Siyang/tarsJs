@@ -71,7 +71,7 @@
   * [dpr](https://www.cnblogs.com/mtl-key/p/7126634.html) [dpr](https://www.cnblogs.com/liujn0829/p/7909218.html) [rem](https://blog.csdn.net/honeymao/article/details/76795089)
   
 * css3
-  * [CSS中的transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
+  * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
 
 * css兼容
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
