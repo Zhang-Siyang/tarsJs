@@ -120,6 +120,7 @@
 * [5][腾讯云-开发者手册](https://cloud.tencent.com/developer/devdocs)
 ##### 社区
 * [![](https://ofm2qnhj5.qnssl.com/.nuxt/dist/img/logo-50.30615fb.png)](https://www.awesomes.cn)
+* [![](www.bslxx.com/templets/default/images/logo.gif)](http://www.bslxx.com)
 ##### 模板引擎：
 * *[jsp](https://baike.baidu.com/item/JSP/141543?fr=aladdin)*
 *[freemarker](http://freemarker.foofun.cn)*
