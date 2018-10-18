@@ -119,7 +119,8 @@
 *  [4][w3school.com.cn](http://www.w3school.com.cn/jsref/index.asp) [w3cschool.cn](https://www.w3cschool.cn) [w3.org](https://www.w3.org) [runoob](http://www.runoob.com)
 * [5][腾讯云-开发者手册](https://cloud.tencent.com/developer/devdocs)
 ##### 社区
-* [![](https://ofm2qnhj5.qnssl.com/.nuxt/dist/img/logo-50.30615fb.png)](https://www.awesomes.cn) [![](https://github.com/TUARAN/pic/blob/master/common/bensan.png)](http://www.bslxx.com)
+* [![](https://ofm2qnhj5.qnssl.com/.nuxt/dist/img/logo-50.30615fb.png)](https://www.awesomes.cn) 
+* [![](https://github.com/TUARAN/pic/blob/master/common/bensan.png)](http://www.bslxx.com)
 ##### 模板引擎：
 * *[jsp](https://baike.baidu.com/item/JSP/141543?fr=aladdin)*
 *[freemarker](http://freemarker.foofun.cn)*
