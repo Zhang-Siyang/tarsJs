@@ -11,19 +11,19 @@
 
 * 更改网页内容
 # 2
+[$到底是什么-详解jQuery的$符号和init函数](https://blog.csdn.net/pgmsoul/article/details/8002805)
+
+# 3
 ```
-定义和用法
+* 定义和用法
 delegate() 方法为指定的元素（属于被选元素的子元素）添加一个或多个事件处理程序，并规定当这些事件发生时运行的函数。
 
 使用 delegate() 方法的事件处理程序适用于当前或未来的元素（比如由脚本创建的新元素）。
 
 语法
 $(selector).delegate(childSelector,event,data,function)
-```
 
-# 3
-```
-通过 closest() 完成事件委托。当被最接近的列表元素或其子后代元素被点击时，会切换黄色背景：
+* 通过 closest() 完成事件委托。当被最接近的列表元素或其子后代元素被点击时，会切换黄色背景：
 
 $( document ).bind("click", function( e ) {
     $( e.target ).closest("li").toggleClass("hilight");
