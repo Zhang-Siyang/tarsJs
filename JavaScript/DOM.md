@@ -13,3 +13,5 @@
 * ![](https://github.com/TUARAN/PIC/blob/master/js/click与on（click）.png)
 
 * [html全局属性](http://www.runoob.com/tags/ref-standardattributes.html)
+
+* [XML DOM HTMLCollection 对象](http://www.w3school.com.cn/xmldom/dom_htmlcollection.asp)  [+](http://www.runoob.com/js/js-htmldom-collections.html)
