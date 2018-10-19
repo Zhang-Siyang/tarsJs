@@ -13,6 +13,7 @@
 # 2
 [$到底是什么-详解jQuery的$符号和init函数](https://blog.csdn.net/pgmsoul/article/details/8002805)
 
+>$符号，其实是对jQuery类构造函数的引用，此函数实际调用了jQuery.fn.init(即是jQuery.prototype.init)来生成jQuery对象,其中jQuery.prototype的所有方法都被jQuery的对象继承。$.func实际是jQuery类的静态方法，所以$即是jQuery类的构造函数，支持各种条件的查找和生成并返回DOM对象构成jQuery对象，同时也是一个类，是所有jQuery静态方法的入口，例如可以使用个$.ajax()。
 # 3
 ```
 * 定义和用法
