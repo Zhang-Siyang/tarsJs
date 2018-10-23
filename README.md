@@ -130,7 +130,9 @@
 ##### 插件：
 * *[Validform](http://validform.rjboy.cn/document.html)* *[VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)*
 *[v-charts](https://v-charts.js.org/#/)*
+
 <br>
+
 ## *Fun*
 ##### 人物：
 
