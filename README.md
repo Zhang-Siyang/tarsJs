@@ -1,5 +1,6 @@
 ## *JavaScript is the best language in the world.*
-
+目录
+---
 * JavaScript
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/ECMAScript.md)
    * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/BOM.md)
@@ -130,7 +131,7 @@
 * *[Validform](http://validform.rjboy.cn/document.html)* *[VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)*
 *[v-charts](https://v-charts.js.org/#/)*
 
-### fun
+## *Fun*
 ##### 人物：
 
 * [Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
