@@ -77,14 +77,10 @@
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br> 
 
-## *Git*
-
-* [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
-
-<br>
-
 ## *Plus*
 
+#### Git：
+* [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
