@@ -1,6 +1,6 @@
 <h2>Navigator 对象</h2>
 <p>Navigator 对象包含有关浏览器的信息。</p>
-<p><img src="/images/lamp.gif" alt="Note"><b>注意：</b> 没有应用于 navigator 对象的公开标准，不过所有浏览器都支持该对象。</p>
+注意：</b> 没有应用于 navigator 对象的公开标准，不过所有浏览器都支持该对象。</p>
 
 <hr>
 <h2>Navigator 对象属性</h2>
