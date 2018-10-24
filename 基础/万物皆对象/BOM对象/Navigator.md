@@ -1,10 +1,3 @@
-<div class="article-body">
-		
-			<div class="article-intro" id="content">
-			
-			<h1><span class="color_h1">Navigator</span> 对象</h1>
-
-<hr>
 <h2>Navigator 对象</h2>
 <p>Navigator 对象包含有关浏览器的信息。</p>
 <p><img src="/images/lamp.gif" alt="Note"><b>注意：</b> 没有应用于 navigator 对象的公开标准，不过所有浏览器都支持该对象。</p>
@@ -56,7 +49,3 @@
     <td>规定浏览器是否启用数据污点(data tainting)</td>
     </tr>
   </tbody></table>			
-			
-			</div>
-			
-		</div>
