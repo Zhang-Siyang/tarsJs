@@ -84,6 +84,7 @@
 
 #### Git：
 * [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
+* [MIT](https://blog.csdn.net/qq_35246620/article/details/77647234)
 
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
