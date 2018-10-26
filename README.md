@@ -80,15 +80,12 @@
 <br> 
 
 ## *Plus*
-
 #### Git：
 * [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 * [MIT](https://blog.csdn.net/qq_35246620/article/details/77647234) [+](https://www.cnblogs.com/newcaoguo/p/7103249.html)
-
 ##### 规范说明：
 * 以# number的形式对每个.md文件进行分块；
 * 以“经历”+“经验”+“思路”为导向；
-
 ##### 引用文档：
 * [1][Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
 * [2][MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) —— [MDN历史](https://www.jianshu.com/p/f1d3be17f0c6)
@@ -103,7 +100,6 @@
 *[freemarker](http://freemarker.foofun.cn)*
 *[velocity](https://www.cnblogs.com/avivaye/p/4418878.html)*
 *[trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)*
-
 ##### 插件：
 * *[Validform](http://validform.rjboy.cn/document.html)* *[VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)*
 *[v-charts](https://v-charts.js.org/#/)*
@@ -112,21 +108,15 @@
 
 ## *Fun*
 ##### 人物：
-
 * [Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
 [Tim Berners-Lee](https://baike.baidu.com/item/蒂姆·伯纳斯·李?fromtitle=Tim+Berners-Lee&fromid=1836386)
 [Brendan Eich](https://baike.baidu.com/item/Brendan%20Eich)
 [John Resig](https://baike.baidu.com/item/John%20Resig/6336344?fr=aladdin)
 [Lars Bak](https://baike.baidu.com/item/拉斯·巴克/4489230?fr=aladdin)
 [尤雨溪](https://baike.baidu.com/item/尤雨溪/2281470?fr=aladdin)
-
 ##### Rank:
-
 * [前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
-
 ##### 数字：
-
 * 2147483647
-
 ##### Else:
 * [💪✖](https://github.com/TUARAN/tarsJs/blob/master/%E2%9D%A4%F0%9F%A6%8C%F0%9F%92%AA%E2%9C%96.md)
