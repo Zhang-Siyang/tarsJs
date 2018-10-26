@@ -1,5 +1,4 @@
 ## *JavaScript is the best language in the world.*
-目录
 ---
 * JavaScript
    * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/ECMAScript.md)
