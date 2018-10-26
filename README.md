@@ -100,7 +100,7 @@
 *[trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)*
 ##### 插件：
 * *[Validform](http://validform.rjboy.cn/document.html)* *[VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)*
-*[v-charts](https://v-charts.js.org/#/)* *[Mock.js](http://www.cnblogs.com/zhenfei-jiang/p/7235339.html)*
+*[v-charts](https://v-charts.js.org/#/)* *[Mock.js](http://mockjs.com)*
 
 <br>
 
