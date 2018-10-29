@@ -1,3 +1,21 @@
+<div class="article-intro" id="content">
+<h2>Document 对象</h2>
+<p>当浏览器载入 HTML 文档, 它就会成为 <strong>Document 对象</strong>。</p>
+<p>Document 对象是 HTML 文档的根节点。</p>
+<p>Document 对象使我们可以从脚本中对 HTML 页面中的所有元素进行访问。</p>
+<p><b>提示：</b>Document 对象是 Window 对象的一部分，可通过 window.document 属性对其进行访问。</p>
+
+<hr>
+<h2>浏览器支持</h2>
+<p>
+<p>所有主要浏览器都支持 Document 对象。</p>
+
+<hr>
+<h2>Document 对象属性和方法</h2>
+<p>HTML文档中可以使用以下属性和方法:</p>
+
+
+
 <table class="reference notranslate">
 <tbody><tr>
 <th width="35%" align="left">属性 / 方法</th>
@@ -195,3 +213,62 @@
     <td>等同于 write() 方法，不同的是在每个表达式之后写一个换行符。</td>
 </tr>
 </tbody></table>
+<br><hr>
+<h2>警告 !!!</h2>
+<p>在 W3C DOM核心，文档对象
+继承节点对象的所有属性和方法。</p>
+<p>很多属性和方法在文档中是没有意义的。</p>
+<p><strong>HTML 文档对象可以避免使用这些节点对象和属性：</strong></p>
+
+<table class="reference notranslate">
+<tbody><tr>
+<th width="30%" align="left">&nbsp;属性 / 方法</th>
+<th align="left">避免的原因</th>
+</tr>
+<tr>
+<td>document.attributes</td>
+	<td>文档没有该属性</td>
+</tr>
+<tr>
+<td>document.hasAttributes()</td>
+	<td>文档没有该属性</td>
+</tr>
+<tr>
+<td>document.nextSibling</td>
+	<td>文档没有下一节点</td>
+</tr>
+<tr>
+<td>document.nodeName</td>
+	<td>这个通常是 #document</td>
+</tr>
+<tr>
+<td>document.nodeType</td>
+	<td>这个通常是 9(DOCUMENT_NODE) </td>
+</tr>
+<tr>
+<td>document.nodeValue</td>
+	<td>文档没有一个节点值</td>
+</tr>
+<tr>
+<td>document.ownerDocument</td>
+	<td>文档没有主文档</td>
+</tr>
+<tr>
+<td>document.ownerElement</td>
+	<td>文档没有自己的节点</td>
+</tr>
+<tr>
+<td>document.parentNode</td>
+	<td>文档没有父节点</td>
+</tr>
+<tr>
+<td>document.previousSibling</td>
+	<td>文档没有兄弟节点</td>
+</tr>
+<tr>
+<td>document.textContent</td>
+	<td>文档没有文本节点</td>
+</tr>
+</tbody></table>			
+			
+			</div>
