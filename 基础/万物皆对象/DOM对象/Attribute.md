@@ -1,3 +1,85 @@
+<div class="article-intro" id="content">
+<h2>HTML DOM 节点</h2>
+<p>在 HTML DOM (Document Object Model) 中, 所有的都是  <strong>节点</strong>：
+</p>
+<ul>
+<li>文档是文档节点</li>
+<li>所有 HTML 元素是元素节点</li>
+	<li>所有 HTML 属性都是属性节点</li>
+	<li>插入到 HTML 元素中的文本为文本节点</li>
+	<li>注释是注释节点</li>
+</ul>
+<hr>
+<h2>Attr 对象</h2>
+<p>在 HTML DOM 中, <strong>Attr 对象</strong> 代表一个 HTML 属性。</p>
+<p>HTML属性总是属于HTML元素。</p>
+
+<hr>
+<h2>NamedNodeMap 对象</h2>
+<p>在 HTML DOM 中, the <strong>NamedNodeMap 对象</strong> 表示一个无顺序的节点列表。</p>
+<p>我们可通过节点名称来访问 NamedNodeMap 中的节点。</p>
+
+<hr>
+<h2>浏览器支持</h2>
+<p>
+<p>所有主流浏览器都支持 Attr 对象和 NamedNodeMap 对象。</p>
+<hr>
+<h2属性和方法< h2="">
+<table class="reference">
+<tbody><tr>
+<th width="30%" align="left">属性 / 方法</th>
+<th align="left">描述</th>
+</tr>
+<tr>
+<td><a href="prop-attr-isid.html"><em>attr</em>.isId</a></td>
+	<td>如果属性是 ID 类型，则 isId 属性返回 true，否则返回 false。
+</td>
+</tr>
+<tr>
+<td><a href="prop-attr-name.html"><em>attr</em>.name</a></td>
+	<td>返回属性名称</td>
+</tr>
+<tr>
+<td><a href="prop-attr-value.html"><em>attr</em>.value</a></td>
+	<td>设置或者返回属性值</td>
+</tr>
+<tr>
+<td><a href="prop-attr-specified.html"><em>attr</em>.specified</a></td>
+	<td>如果属性被指定返回 true
+	，否则返回 false
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+	<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="met-namednodemap-getnameditem.html"><em>nodemap</em>.getNamedItem()</a></td>
+	<td>从节点列表中返回的指定属性节点。</td>
+</tr>
+<tr>
+<td><a href="met-namednodemap-item.html"><em>nodemap</em>.item()</a></td>
+	<td>返回节点列表中处于指定索引号的节点。</td>
+</tr>
+<tr>
+<td><a href="prop-namednodemap-length.html"><em>nodemap</em>.length</a></td>
+	<td>返回节点列表的节点数目。</td>
+</tr>
+<tr>
+<td><a href="met-namednodemap-removenameditem.html"><em>nodemap</em>.removeNamedItem()</a></td>
+	<td>删除指定属性节点</td>
+</tr>
+<tr>
+<td><a href="met-namednodemap-setnameditem.html"><em>nodemap</em>.setNamedItem()</a></td>
+	<td>设置指定属性节点(通过名称)</td>
+</tr>
+</tbody></table>
+<br><hr>
+<h2>DOM 4 警告 !!!</h2>
+<p>在 W3C DOM 内核中,  Attr (属性) 对象继承节点对象的所有属性和方法 。</p>
+<p>在 DOM 4 中, Attr (属性) 对象不再从节点对象中继承。</p>
+<p><strong>从长远的代码质量来考虑，在属性对象中你需要避免使用节点对象属性和方法:</strong></p>
+
 <table class="reference">
 <tbody><tr>
 <th width="30%" align="left">属性 / 方法</th>
@@ -128,4 +210,4 @@
 <i>attr</i>.textContent</td>
 	<td>使用 <i>attr</i>.value 替代</td>
 </tr>
-</tbody></table>
+</tbody></table>			
