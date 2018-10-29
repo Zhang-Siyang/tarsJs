@@ -1,3 +1,19 @@
+<div class="article-intro" id="content">
+<h2>元素对象</h2>
+<p>在 HTML DOM 中, <strong>元素对象</strong>代表着一个 HTML 元素。</p>
+<p>元素对象 的 <strong>子节点</strong>可以是, 可以是元素节点，文本节点，注释节点。</p>
+<p><strong>NodeList 对象</strong> 代表了节点列表，类似于 HTML元素的子节点集合。</p>
+<p>元素可以有属性。属性属于属性节点（查看下一章节）。</p>
+
+<hr>
+<h2>浏览器支持</h2>
+<p>
+<img src="/images/compatible_ie.gif" width="31" height="30" alt="Internet Explorer" title="Internet Explorer"><img src="/images/compatible_firefox.gif" width="31" height="30" alt="Firefox" title="Firefox"><img src="/images/compatible_opera.gif" width="28" height="30" alt="Opera" title="Opera"><img src="/images/compatible_chrome.gif" width="31" height="30" alt="Google Chrome" title="Google Chrome"><img src="/images/compatible_safari.gif" width="28" height="30" alt="Safari" title="Safari"></p>
+<p>所有主流浏览器都支持 元素对象 和 NodeList 对象。.</p>
+
+<hr>
+<h2>属性和方法</h2>
+<p>以上属性和方法可适用于所有 HTML 元素：</p>
 <table class="reference">
 <tbody><tr>
 <th width="35%" align="left">属性 / 方法</th>
@@ -330,4 +346,6 @@
 <td><a href="prop-nodelist-length.html"><em>nodelist</em>.length</a></td>
 	<td>返回节点列表的节点数目。</td>
 </tr>
-</tbody></table>
+</tbody></table>			
+			
+</div>
