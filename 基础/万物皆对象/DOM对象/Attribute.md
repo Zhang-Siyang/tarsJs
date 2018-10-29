@@ -1,15 +1,4 @@
 <div class="article-intro" id="content">
-<h2>HTML DOM 节点</h2>
-<p>在 HTML DOM (Document Object Model) 中, 所有的都是  <strong>节点</strong>：
-</p>
-<ul>
-<li>文档是文档节点</li>
-<li>所有 HTML 元素是元素节点</li>
-	<li>所有 HTML 属性都是属性节点</li>
-	<li>插入到 HTML 元素中的文本为文本节点</li>
-	<li>注释是注释节点</li>
-</ul>
-<hr>
 <h2>Attr 对象</h2>
 <p>在 HTML DOM 中, <strong>Attr 对象</strong> 代表一个 HTML 属性。</p>
 <p>HTML属性总是属于HTML元素。</p>
