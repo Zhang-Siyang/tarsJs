@@ -77,7 +77,7 @@
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br> 
 
-## *另外的*
+## *Else*
 #### Git：
 * [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 * [MIT](https://blog.csdn.net/qq_35246620/article/details/77647234) [+](https://www.cnblogs.com/newcaoguo/p/7103249.html)
@@ -104,7 +104,7 @@
 
 <br>
 
-## *有意思*
+## *Fun*
 ##### 人物：
 * [Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
 [Tim Berners-Lee](https://baike.baidu.com/item/蒂姆·伯纳斯·李?fromtitle=Tim+Berners-Lee&fromid=1836386)
