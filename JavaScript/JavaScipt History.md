@@ -21,7 +21,7 @@ Remind-point：
 >1995年12月，Javascript诞生：Javascript语言是两种语言风格的混合产物————（简化的）函数式编程+（简化的）面向对象编程
 
 # 4
-—— Ant Design[ref](https://www.yuque.com/ant-design/course/sc1lvc)
+—— Ant Design [ref](https://www.yuque.com/ant-design/course/sc1lvc)
 
 ### 静态页面阶段
 互联网发展的早期，网站的前后端开发是一体的，即前端代码是后端代码的一部分。
