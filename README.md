@@ -81,9 +81,6 @@
 #### Git：
 * [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 * [MIT](https://blog.csdn.net/qq_35246620/article/details/77647234) [+](https://www.cnblogs.com/newcaoguo/p/7103249.html)
-##### 规范说明：
-* 以# number的形式对每个.md文件进行分块；
-* 以“经历”+“经验”+“思路”为导向；
 ##### 引用文档：
 * [Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
 * [MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) —— [MDN历史](https://www.jianshu.com/p/f1d3be17f0c6)
