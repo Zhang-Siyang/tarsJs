@@ -80,30 +80,6 @@ post是通过HTTPpost机制，将表单内各个字段与其内容放置在HTML 
 <img src="https://developers.google.cn/web/tools/chrome-devtools/network-performance/imgs/resource-timing-entry.png" alt="Resource Timing 条目">
 </figure>
 
-<style>
-dt:before {
-  content: "\00a0\00a0\00a0";
-}
-dt strong {
-  margin-left: 5px;
-}
-dt.stalled:before, dt.proxy-negotiation:before {
-  background-color: #cdcdcd;
-}
-dt.dns-lookup:before {
-  background-color: #1f7c83;
-}
-dt.initial-connection:before, dt.ssl:before {
-  background-color: #e58226;
-}
-dt.request-sent:before, dt.ttfb:before {
-  background-color: #5fdd5f;
-}
-dt.content-download:before {
-  background-color: #4189d7;
-}
-</style>
-
 <dl>
 
   <dt class="queued"><strong>Queuing</strong></dt>
