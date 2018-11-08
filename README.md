@@ -63,7 +63,7 @@
    * [面试](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E9%9D%A2%E8%AF%95.md)🍜
 
 * ES6
-  * [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
+  * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html) 
 <br>
 
 ## *Css* 
