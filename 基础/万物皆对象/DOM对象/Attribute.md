@@ -1,2 +1,2 @@
 # 1
-[菜鸟教程:属性对象有哪些属性和方法呢？](http://www.runoob.com/jsref/dom-obj-attributes.html)
+[菜鸟教程:Attribute属性对象有哪些属性和方法呢？](http://www.runoob.com/jsref/dom-obj-attributes.html)
