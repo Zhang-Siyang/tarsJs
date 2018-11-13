@@ -43,7 +43,7 @@
         * [XSS攻击](https://baike.baidu.com/item/XSS攻击/954065?fr=aladdin)
         * [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967?utm_source=blogxgwz0)
         * [iframe与主框架跨域相互访问方法](https://blog.csdn.net/fdipzone/article/details/17619673)
-        * [什么是浏览器同源策略](https://www.cnblogs.com/laixiangran/p/9064769.html)
+        * [为什么是浏览器同源策略](https://www.cnblogs.com/laixiangran/p/9064769.html)
    * 强制类型转换👍
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
