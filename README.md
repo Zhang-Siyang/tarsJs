@@ -24,13 +24,13 @@
       * [Chrome 开发者工具-翻译-墙内](https://www.css88.com/doc/chrome-devtools/)
       * [浏览器状态码](https://www.cnblogs.com/xiaowenwu/p/5519697.html)
       * [浏览器工作机制](https://www.cnblogs.com/jzxx/p/6098846.html)
-   * 闭包🎪
+   * 闭包🐒
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E9%97%AD%E5%8C%85.md)
-   * 正则表达式⤴
+   * 正则表达式🐴
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
    * 原型链⛓
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
-   * ES6👍
+   * ES6🐖
      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
      * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
      * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
@@ -44,7 +44,7 @@
         * [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967?utm_source=blogxgwz0)
         * [iframe与主框架跨域相互访问方法](https://blog.csdn.net/fdipzone/article/details/17619673)
         * [什么是浏览器同源策略](https://www.cnblogs.com/laixiangran/p/9064769.html)
-   * 强制类型转换
+   * 强制类型转换🐱
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 * 探索
