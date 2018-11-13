@@ -27,7 +27,7 @@
    * [闭包](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E9%97%AD%E5%8C%85.md)
    * [正则表达式](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
    * [原型链](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
-   * ES6
+   * ES6👍
      * [ES6](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
      * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
      * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
