@@ -44,7 +44,8 @@
         * [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967?utm_source=blogxgwz0)
         * [iframe与主框架跨域相互访问方法](https://blog.csdn.net/fdipzone/article/details/17619673)
         * [什么是浏览器同源策略](https://www.cnblogs.com/laixiangran/p/9064769.html)
-   * [强制类型转换](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+   * 强制类型转换
+      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 * 探索
    * [算法题](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%AE%97%E6%B3%95%E9%A2%98.md)
