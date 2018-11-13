@@ -32,7 +32,15 @@
      * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
      * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
      * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
-   * [跨域](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E8%B7%A8%E5%9F%9F.md)
+   * 跨域🚀
+        * [跨域md](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E8%B7%A8%E5%9F%9F.md)
+        * [跨域初识](http://www.cnblogs.com/2050/p/3191744.html)
+        * [跨域详解](https://blog.csdn.net/wonking666/article/details/79159180)
+        * [Jsonp](https://www.cnblogs.com/chiangchou/p/jsonp.html) [Jsonp](https://blog.csdn.net/u011897301/article/details/52679486)
+        * [XSS攻击](https://baike.baidu.com/item/XSS攻击/954065?fr=aladdin)
+        * [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967?utm_source=blogxgwz0)
+        * [iframe与主框架跨域相互访问方法](https://blog.csdn.net/fdipzone/article/details/17619673)
+        * [什么是浏览器同源策略](https://www.cnblogs.com/laixiangran/p/9064769.html)
    * [强制类型转换](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 * 探索
