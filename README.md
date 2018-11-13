@@ -89,7 +89,7 @@
 ##### 引用文档：
 * [Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
 * [MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) —— [MDN历史](https://www.jianshu.com/p/f1d3be17f0c6)
-* [css88](http://www.css88.com) [+](https://github.com/TUARAN/tarsJs/blob/master/plus/css88%2B.md)
+* [css88](http://www.css88.com)
 * [w3school.com.cn](http://www.w3school.com.cn/jsref/index.asp) [w3cschool.cn](https://www.w3cschool.cn) [w3.org](https://www.w3.org) [runoob](http://www.runoob.com)
 * [腾讯云-开发者手册](https://cloud.tencent.com/developer/devdocs)
 ##### 社区
