@@ -33,7 +33,7 @@
      * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
      * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
    * 跨域🚀
-        * [跨域md](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E8%B7%A8%E5%9F%9F.md)
+        * [🖊](https://github.com/TUARAN/tarsJs/blob/ddcb11032da04b0de88df6cb138d51969016e364/进阶/跨域笔记🖊.md)
         * [跨域初识](http://www.cnblogs.com/2050/p/3191744.html)
         * [跨域详解](https://blog.csdn.net/wonking666/article/details/79159180)
         * [Jsonp](https://www.cnblogs.com/chiangchou/p/jsonp.html) [Jsonp](https://blog.csdn.net/u011897301/article/details/52679486)
