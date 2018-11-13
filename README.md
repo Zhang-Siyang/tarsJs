@@ -29,7 +29,7 @@
    * 正则表达式
       * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
    * 原型链
-   * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
+      * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
    * ES6👍
      * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
      * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
