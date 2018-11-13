@@ -52,7 +52,7 @@
    * [性能优化※](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
    * [兼容问题](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
    * [网络相关](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
-   * [面试](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E9%9D%A2%E8%AF%95.md)🍜
+   * 面试🍜
       * [去重](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/interview/%E5%8E%BB%E9%87%8D.md)
       * [排序]()
       * [时间]()
