@@ -15,7 +15,7 @@
      
       
     * JQuery!
-      * [Jquery](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/JQ!.md)
+      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/JQ!.md)
 
 * 进阶
    * 浏览器🌏
