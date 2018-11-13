@@ -24,11 +24,11 @@
       * [Chrome 开发者工具-翻译-墙内](https://www.css88.com/doc/chrome-devtools/)
       * [浏览器状态码](https://www.cnblogs.com/xiaowenwu/p/5519697.html)
       * [浏览器工作机制](https://www.cnblogs.com/jzxx/p/6098846.html)
-   * 闭包
+   * 闭包🎪
       * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E9%97%AD%E5%8C%85.md)
-   * 正则表达式
+   * 正则表达式⤴
       * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
-   * 原型链
+   * 原型链⛓
       * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
    * ES6👍
      * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
