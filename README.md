@@ -28,6 +28,9 @@
    * [正则表达式](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
    * [原型链](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
    * [ES6](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
+     * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
+     * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
+     * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
    * [跨域](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E8%B7%A8%E5%9F%9F.md)
    * [强制类型转换](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
@@ -40,10 +43,6 @@
       * [去重](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/interview/%E5%8E%BB%E9%87%8D.md)
       * [排序]()
       * [时间]()
-* ES6
-  * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
-  * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
-  * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
   
 * 原理!
   * javascript堆栈
