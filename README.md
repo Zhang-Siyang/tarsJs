@@ -28,12 +28,12 @@
    * [正则表达式](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
    * [原型链](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
    * ES6👍
-     * [ES6](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
+     * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
      * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
      * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
      * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
    * 跨域🚀
-        * [🖊](https://github.com/TUARAN/tarsJs/blob/ddcb11032da04b0de88df6cb138d51969016e364/进阶/跨域笔记🖊.md)
+        * [我的笔记🖊](https://github.com/TUARAN/tarsJs/blob/ddcb11032da04b0de88df6cb138d51969016e364/进阶/跨域笔记🖊.md)
         * [跨域初识](http://www.cnblogs.com/2050/p/3191744.html)
         * [跨域详解](https://blog.csdn.net/wonking666/article/details/79159180)
         * [Jsonp](https://www.cnblogs.com/chiangchou/p/jsonp.html) [Jsonp](https://blog.csdn.net/u011897301/article/details/52679486)
