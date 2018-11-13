@@ -5,7 +5,7 @@
    * BOM
    * DOM
    * 历史🏯
-     * [JavaScript History-阮一峰](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
+     * [Javascript诞生记-阮一峰](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
      * [前端开发的演变-ant-design](https://www.yuque.com/ant-design/course/sc1lvc)
 
 * 基础
