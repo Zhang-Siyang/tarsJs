@@ -14,7 +14,7 @@
       * [JavaScript-参考手册-菜鸟教程](http://www.runoob.com/jsref/jsref-tutorial.html)
      
       
-    * JQuery!
+    * JQuery⚪
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/JQ!.md)
 
 * 进阶
