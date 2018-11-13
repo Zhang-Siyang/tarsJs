@@ -1,9 +1,9 @@
 ## *JavaScript is the best language in the world.*
 >“它的优秀之处并非原创，它的原创之处并不优秀”
 * JavaScript
-   * [ECMAScript](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/ECMAScript.md)
-   * [BOM](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/BOM.md)
-   * [DOM](https://github.com/TUARAN/tarsJs/blob/master/JavaScript/DOM.md)
+   * ECMAScript
+   * BOM
+   * DOM
    * 历史🏯
      * [JavaScript History-阮一峰](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
      * [前端开发的演变-ant-design](https://www.yuque.com/ant-design/course/sc1lvc)
