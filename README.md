@@ -67,6 +67,7 @@
 * ES6
   * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
   * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
+  * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
 <br>
 
 ## *Css* 
