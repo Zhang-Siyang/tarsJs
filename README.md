@@ -40,7 +40,7 @@
         * [我的笔记](https://github.com/TUARAN/tarsJs/blob/ddcb11032da04b0de88df6cb138d51969016e364/进阶/跨域笔记🖊.md)
         * [跨域初识](http://www.cnblogs.com/2050/p/3191744.html)
         * [跨域详解](https://blog.csdn.net/wonking666/article/details/79159180)
-        * [Jsonp](https://www.cnblogs.com/chiangchou/p/jsonp.html) [Jsonp](https://blog.csdn.net/u011897301/article/details/52679486)
+        * [Jsonp](https://www.cnblogs.com/chiangchou/p/jsonp.html) [+](https://blog.csdn.net/u011897301/article/details/52679486)
         * [XSS攻击](https://baike.baidu.com/item/XSS攻击/954065?fr=aladdin)
         * [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967?utm_source=blogxgwz0)
         * [iframe与主框架跨域相互访问方法](https://blog.csdn.net/fdipzone/article/details/17619673)
