@@ -26,6 +26,7 @@
       * [Chrome 开发者工具-翻译-墙内](https://www.css88.com/doc/chrome-devtools/)
       * [浏览器状态码](https://www.cnblogs.com/xiaowenwu/p/5519697.html)
       * [浏览器工作机制](https://www.cnblogs.com/jzxx/p/6098846.html)
+      * [V8](https://blog.csdn.net/heyeqingquan/article/details/78839699)/[V8与node](http://www.broadview.com.cn/article/419435)/[V8背后的故事](http://www.weste.net/2009/4-23/10412931178.html)✌
    * 闭包👜
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E9%97%AD%E5%8C%85.md)
       * [学习闭包](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
