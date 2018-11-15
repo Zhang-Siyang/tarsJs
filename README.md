@@ -40,6 +40,7 @@
      * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
      * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
      * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
+     * [let、const](https://blog.csdn.net/lilongsy/article/details/75048822)
    * 跨域🚀
         * [我的笔记](https://github.com/TUARAN/tarsJs/blob/ddcb11032da04b0de88df6cb138d51969016e364/进阶/跨域笔记🖊.md)
         * [跨域初识](http://www.cnblogs.com/2050/p/3191744.html)
