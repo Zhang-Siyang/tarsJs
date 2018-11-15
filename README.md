@@ -28,6 +28,7 @@
    * 闭包👜
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E9%97%AD%E5%8C%85.md)
       * [学习闭包](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+      * [匿名函数与闭包](https://www.cnblogs.com/chenxianbin89/archive/2010/01/28/1658392.html)
    * 正则表达式🔢
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
    * 原型链⛓
