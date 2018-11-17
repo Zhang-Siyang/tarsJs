@@ -36,7 +36,7 @@
    * 原型链⛓
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
    * ES6🐖
-     **Es6！重要！是JavaScript短期时间的未来**
+     **Es6 !important**
      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
      * [let和const](https://blog.csdn.net/lilongsy/article/details/75048822)
      * [箭头函数]（https://blog.csdn.net/just4you/article/details/79258799）
