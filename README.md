@@ -70,6 +70,8 @@
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
    * 网络相关⌨   
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
+      * [HTTP](http://www.runoob.com/http/http-tutorial.html)
+      * [TCP/IP与Http](https://www.cnblogs.com/xianlei/p/tcpip_http.html)
    * 面试🍜
       * [去重](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/interview/%E5%8E%BB%E9%87%8D.md)
       * [排序]()
@@ -99,11 +101,6 @@
   
 * css兼容
   * [record](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
-<br>
-
-## *Web*
-* [HTTP](http://www.runoob.com/http/http-tutorial.html)
-* [TCP/IP与Http](https://www.cnblogs.com/xianlei/p/tcpip_http.html)
 <br>
 
 ## *Else*
