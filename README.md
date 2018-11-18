@@ -65,7 +65,7 @@
       * [数组其他操作]()
       * [十大经典排序算法](https://www.cnblogs.com/onepixel/articles/7674659.html)
    * 性能优化👾
-      * [我的笔记※](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
+      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
    * 兼容问题☕   
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
    * 网络相关⌨   
