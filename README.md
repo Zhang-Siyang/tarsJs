@@ -9,7 +9,8 @@
      * [前端开发的演变](https://www.yuque.com/ant-design/course/sc1lvc)
 
 * 基础
-   * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+   * 数据类型🚶
+      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
    * 万物皆对象🐘
       **属性是对象的性质、方法是对象的动作、事件是对象的响应**
       * [JavaScript-参考手册-菜鸟教程](http://www.runoob.com/jsref/jsref-tutorial.html)
@@ -63,9 +64,12 @@
       * [去重]()
       * [数组其他操作]()
       * [十大经典排序算法](https://www.cnblogs.com/onepixel/articles/7674659.html)
-   * [性能优化※](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
-   * [兼容问题](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
-   * [网络相关](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
+   * 性能优化👾
+      * [我的笔记※](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
+   * 兼容问题☕   
+      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
+   * 网络相关⌨   
+      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
    * 面试🍜
       * [去重](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/interview/%E5%8E%BB%E9%87%8D.md)
       * [排序]()
