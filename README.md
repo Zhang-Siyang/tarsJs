@@ -107,7 +107,7 @@
 #### Git：
 * [github desktop](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
 * [MIT](https://blog.csdn.net/qq_35246620/article/details/77647234) [+](https://www.cnblogs.com/newcaoguo/p/7103249.html)
-##### 引用文档：
+##### 文档：
 * [Chrome 开发者工具中文文档](http://www.css88.com/doc/chrome-devtools/)
 * [MDN-Mozilla Developer Network](https://developer.mozilla.org/zh-CN/) —— [MDN历史](https://www.jianshu.com/p/f1d3be17f0c6)
 * [css88](http://www.css88.com)
@@ -124,10 +124,6 @@
 ##### 插件：
 * *[Validform](http://validform.rjboy.cn/document.html)* *[VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)*
 *[v-charts](https://v-charts.js.org/#/)* *[Mock.js](http://mockjs.com)*
-
-<br>
-
-## *Fun*
 ##### 人物：
 * [Alan Mathison Turing](https://baike.baidu.com/item/艾伦·麦席森·图灵/3940576?fromtitle=图灵&fromid=121208&fr=aladdin)
 [Tim Berners-Lee](https://baike.baidu.com/item/蒂姆·伯纳斯·李?fromtitle=Tim+Berners-Lee&fromid=1836386)
