@@ -11,7 +11,7 @@
 * 基础
    * [数据类型](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
    * 万物皆对象🐘
-      **属性是对象的性质；方法是对象的动作；事件是对象的响应**
+      **属性是对象的性质、方法是对象的动作、事件是对象的响应**
       * [JavaScript-参考手册-菜鸟教程](http://www.runoob.com/jsref/jsref-tutorial.html)
      
       
