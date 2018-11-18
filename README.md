@@ -39,7 +39,7 @@
      **Es6 !important**
      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
      * [let和const](https://blog.csdn.net/lilongsy/article/details/75048822)
-     * [箭头函数]（https://blog.csdn.net/just4you/article/details/79258799）
+     * [箭头函数](https://blog.csdn.net/just4you/article/details/79258799)
      * [异步编程](https://blog.csdn.net/ivana_zyf/article/details/79201398) [Promise](https://www.cnblogs.com/dengyulinBlog/p/6180223.html)
      * [解构和扩展运算符](http://www.cnblogs.com/chrischjh/p/4848934.html)
      * [set和map](http://es6.ruanyifeng.com/#docs/set-map)
