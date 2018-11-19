@@ -102,7 +102,7 @@
     * [兼容记录](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br>
 
-## *integration*
+## *Integration*
 >浑欲不胜簪
 * 基础
   * Git：
