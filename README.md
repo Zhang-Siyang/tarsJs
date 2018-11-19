@@ -138,6 +138,8 @@
     * [前端TOP100](https://www.awesomes.cn/rank/?sort=hot)
   * 数字：
     * 2147483647
+  * 网络命令行：
+    * netstat -na（查看端口号）
 * 前瞻
   * UED
     * [百度百科](https://baike.baidu.com/item/UED/1953215?fr=aladdin)
