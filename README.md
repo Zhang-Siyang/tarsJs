@@ -1,14 +1,12 @@
 ## *JavaScript is the best language in the world.*
 >“它的优秀之处并非原创，它的原创之处并不优秀”
-* JavaScript
+* 基础
    * ECMAScript
    * BOM
    * DOM
    * 历史🏯
      * [Javascript诞生记](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
      * [前端开发的演变](https://www.yuque.com/ant-design/course/sc1lvc)
-
-* 基础
    * 数据类型🚶
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
    * 万物皆对象🐘
