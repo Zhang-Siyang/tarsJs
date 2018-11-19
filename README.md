@@ -85,6 +85,7 @@
     * [Node.js Express 框架](http://www.runoob.com/nodejs/nodejs-express-framework.html)
   * 爬虫
     * [node搭建服务器](https://www.cnblogs.com/saber200/p/5242732.html)
+    * [基于superagent与cheerio](https://www.cnblogs.com/LIUYANZUO/p/5505338.html)
   * Node和浏览器
     * [浏览器和Node不同的事件循环（Event Loop）](https://segmentfault.com/a/1190000013660033?utm_source=channel-hottest)
 <br>
