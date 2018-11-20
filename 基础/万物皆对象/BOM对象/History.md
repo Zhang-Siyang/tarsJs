@@ -1,1 +1,0 @@
-[分辨率和像素是什么关系](https://www.zhihu.com/question/21149600)
