@@ -1,6 +1,6 @@
 # 目录
 
-## *JavaScript*
+## JavaScript
 >“它的优秀之处并非原创，它的原创之处并不优秀”
 * 基础
    * ECMAScript
@@ -94,7 +94,7 @@
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## *Css* 
+## Css 
 >Cascading Style Sheets 层叠样式表
 * 基础
   * css3 
@@ -107,11 +107,11 @@
     * [兼容记录](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br>
 
-## *Mysql*
+## Mysql
 >关系数据库管理系统
 <br>
 
-## *更多*
+## 更多
 >浑欲不胜簪
 * 基础
   * Git：
