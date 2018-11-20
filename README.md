@@ -102,7 +102,8 @@
 <br>
 
 ## *Mysql*
->
+>关系数据库管理系统
+<br>
 
 ## *Integration*
 >浑欲不胜簪
@@ -143,7 +144,6 @@
     * 2147483647
   * 网络命令行：
     * netstat -na（查看端口号）
-* 前瞻
-  * UED
-    * [百度百科](https://baike.baidu.com/item/UED/1953215?fr=aladdin)
+  * 前瞻
+    * [百度百科UED](https://baike.baidu.com/item/UED/1953215?fr=aladdin)
     * [前端未来几年的发展方向是什么 2018-9-1](https://www.wengbi.com/thread_56397_1.html)
