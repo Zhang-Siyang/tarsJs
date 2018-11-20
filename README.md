@@ -12,7 +12,7 @@
    * 万物皆对象🐘
       **属性是对象的性质、方法是对象的动作、事件是对象的响应**
       * [JavaScript-参考手册-菜鸟教程](http://www.runoob.com/jsref/jsref-tutorial.html)
-     
+      * [18828个Star](https://mp.weixin.qq.com/s/PQieSjJCLHIaQl3R666wjQ)
       
     * JQuery⚪
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/JQ!.md)
@@ -100,6 +100,9 @@
     * [dpr](https://www.cnblogs.com/mtl-key/p/7126634.html) [dpr](https://www.cnblogs.com/liujn0829/p/7909218.html) [rem](https://blog.csdn.net/honeymao/article/details/76795089) 
     * [兼容记录](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
 <br>
+
+## *Mysql*
+>
 
 ## *Integration*
 >浑欲不胜簪
