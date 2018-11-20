@@ -19,7 +19,7 @@
     * JQuery⚪
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/JQ!.md)
 
-[👆TOP](https://github.com/TUARAN/tarsJs/edit/master/README.md#目录)
+[👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 * 进阶
    * 浏览器🌏
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%B5%8F%E8%A7%88%E5%99%A8/%E5%86%85%E6%A0%B8.md)
