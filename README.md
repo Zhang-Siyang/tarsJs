@@ -1,12 +1,12 @@
 # 目录
-[1.JavaScript]()
+[第一章 JavaScript]()
 
-[2.Css]()
+[第二章 Css]()
 
-[3.MySql]()
+[第三章 MySql]()
 
-[4.更多]()
-## JavaScript
+[第四章 更多]()
+## 第一章 JavaScript
 >“它的优秀之处并非原创，它的原创之处并不优秀”
 * 基础
    * ECMAScript
@@ -100,7 +100,7 @@
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## Css 
+## 第二章 Css 
 >Cascading Style Sheets 层叠样式表
 * 基础
   * css3 
@@ -114,11 +114,11 @@
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## MySql
+## 第三章 MySql
 >关系数据库管理系统
 <br>
 
-## 更多
+## 第四章 更多
 >浑欲不胜簪
 * 基础
   * Git：
