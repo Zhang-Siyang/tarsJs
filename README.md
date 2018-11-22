@@ -143,6 +143,7 @@
     * [freemarker](http://freemarker.foofun.cn)
     * [velocity](https://www.cnblogs.com/avivaye/p/4418878.html)
     * [trimpath](http://bbs.chinaunix.net/thread-735901-1-1.html)
+    * [Beetl](http://ibeetl.com/guide/)
   * 插件：
     * [Validform](http://validform.rjboy.cn/document.html)
     * [VeeValidate](https://blog.csdn.net/docallen/article/details/73650179)
