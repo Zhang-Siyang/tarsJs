@@ -119,7 +119,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第三章 Vue Ag
->vue不适合和jquery一起用：一个是数据绑定思想；一个是操作Dom思想
+>vue不适合和jquery一起用：前者是数据绑定思想；后者是操作Dom思想
 * Vue
   * learn-vue1.0
     * [vue-cli目录说明](https://my.oschina.net/liuyuantao/blog/883251)
