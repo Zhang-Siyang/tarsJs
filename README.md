@@ -31,7 +31,6 @@
     * JQuery⚪
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/JQ!.md)
 
-[👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 * 进阶
    * 浏览器🌏
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%B5%8F%E8%A7%88%E5%99%A8/%E5%86%85%E6%A0%B8.md)
@@ -70,7 +69,6 @@
    * 强制类型转换👍
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
-[👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 * 探索
    * 算法题➗
       * [回文]()
@@ -94,8 +92,7 @@
   * 堆栈
     * [Stack](http://www.ruanyifeng.com/blog/2013/11/stack.html) 
     * [Event Loop](https://segmentfault.com/a/1190000012806637) [+](http://www.ruanyifeng.com/blog/2013/11/stack.html)
-
-[👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)    
+  
 * Node
   * Node基础
     * [Node.js Express 框架](http://www.runoob.com/nodejs/nodejs-express-framework.html)
@@ -121,9 +118,23 @@
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## 第三章 Vue
->唯有Vue
-
+## 第三章 Vue Ag
+>vue不适合和jquery一起用：一个是数据绑定思想；一个是操作Dom思想
+* Vue
+  * learn-vue1.0
+    * [vue-cli目录说明](https://my.oschina.net/liuyuantao/blog/883251)
+    * [vue漫谈v1.0](https://github.com/TUARAN/tarsVue/blob/master/vue漫谈v1.0.md)
+    * [vue-cli+axios跨域](https://blog.csdn.net/it_cgq/article/details/78781422) 
+    * [Element](http://element-cn.eleme.io/#/zh-CN)
+  * learn-vue2.0
+    * [vue漫谈v2.0](https://github.com/TUARAN/tarsVue/blob/master/vue2.0.md)
+    * [VueX组件通信](https://segmentfault.com/a/1190000009404727)
+  * 辅助  
+    * [vue浏览器调试插件](https://download.csdn.net/download/qq_32963841/10149427)  
+* Ag
+  * learn-vue1.0
+    * [AngularJs和Angular](https://blog.csdn.net/zengmingen/article/details/72851636)
+    * [用脚手架搭建ng项目](https://www.angular.cn/guide/quickstart)
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
@@ -131,6 +142,7 @@
 >关系数据库管理系统
 <br>
 
+[👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第四章 更多
 >浑欲不胜簪
 * 基础
