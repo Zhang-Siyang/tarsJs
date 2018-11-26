@@ -107,14 +107,14 @@
 ## 第二章 Css 
 >Cascading Style Sheets 层叠样式表
 * 基础
-  * css3 
-    * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/css/ttr.md)
-    * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
-    * [flex](https://caniuse.com/#search=flex) [+](https://www.runoob.com/w3cnote/flex-grammar.html)
   * css
     * [BEM规范](https://www.w3cplus.com/css/bem-definitions.html) [BEM规范](https://segmentfault.com/a/1190000000391762)
     * [dpr](https://www.cnblogs.com/mtl-key/p/7126634.html) [dpr](https://www.cnblogs.com/liujn0829/p/7909218.html) [rem](https://blog.csdn.net/honeymao/article/details/76795089) 
     * [兼容记录](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
+  * css3 
+    * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/css/ttr.md)
+    * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
+    * [flex](https://caniuse.com/#search=flex) [+](https://www.runoob.com/w3cnote/flex-grammar.html)
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
