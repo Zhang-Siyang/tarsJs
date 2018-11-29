@@ -24,6 +24,7 @@
    * ECMAScript
    * BOM
    * DOM
+     * [DOM事件流](https://blog.csdn.net/weixin_38521613/article/details/81287199)
    * 历史🏯
      * [Javascript诞生记](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
      * [前端开发的演变](https://www.yuque.com/ant-design/course/sc1lvc)
