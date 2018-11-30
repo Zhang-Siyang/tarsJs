@@ -139,6 +139,7 @@
   * learn-vue2.0
     * [vue漫谈v2.0](https://github.com/TUARAN/tarsVue/blob/master/vue2.0.md)
     * [VueX组件通信](https://segmentfault.com/a/1190000009404727)
+    * [Vue-cli实现原理](http://www.bslxx.com/a/vue/kaiyuankuangjia/2018/0408/1903.html)  
   * 辅助  
     * [vue浏览器调试插件](https://download.csdn.net/download/qq_32963841/10149427)  
 * Ag
