@@ -1,4 +1,6 @@
+>I think it different,so it's different!
 
+![](https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg)
 # 引言：
 
 初衷：写于2018年的12月，广州这座城市依旧几次入冬失败，毕业已近半年。
@@ -32,10 +34,6 @@
 关键词：前端、知识架构、链接收集、经典问题、知识点更新
 
 >愿望：成为github第一开源。
-
->I think it different,so it's different!
-
-![](https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg)
 
 # 目录
 [第一章 JavaScript]()
