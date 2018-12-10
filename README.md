@@ -1,4 +1,4 @@
->I think it different,so it's different!
+>I think it's different,so it's different!
 
 ![](https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg)
 # 引言：
