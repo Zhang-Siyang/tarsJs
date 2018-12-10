@@ -31,7 +31,10 @@
 
 关键词：前端、知识架构、链接收集、经典问题、知识点更新
 
->愿望：这个项目成为github上satr数最多的项目（不是倒数第一^_^）。
+>愿望：成为github第一开源。
+
+>I think it different,so it's different!
+![](https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg)
 
 # 目录
 [第一章 JavaScript]()
