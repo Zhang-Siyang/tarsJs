@@ -89,6 +89,7 @@
       * [匿名函数与闭包](https://www.cnblogs.com/chenxianbin89/archive/2010/01/28/1658392.html)
    * 正则表达式🔢
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+      * [正则表达式贪婪与非贪婪模式](https://www.cnblogs.com/xudong-bupt/p/3586889.html)
    * 原型链⛓
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
    * ES6🐖
