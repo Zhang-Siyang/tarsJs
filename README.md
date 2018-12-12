@@ -156,6 +156,7 @@
     * [BEM规范](https://www.w3cplus.com/css/bem-definitions.html) [BEM规范](https://segmentfault.com/a/1190000000391762)
     * [dpr](https://www.cnblogs.com/mtl-key/p/7126634.html) [dpr](https://www.cnblogs.com/liujn0829/p/7909218.html) [rem](https://blog.csdn.net/honeymao/article/details/76795089) 
     * [兼容记录](https://github.com/TUARAN/tarsJs/blob/master/css/record.md)
+    * [文本超长显示省略号，鼠标移上显示全部](https://blog.csdn.net/wxnjob/article/details/42009043)
   * css3 
     * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/css/ttr.md)
     * [transform、transition、animation](https://www.jianshu.com/p/0e0e1903b80d)
