@@ -224,3 +224,5 @@
     * [前端未来几年的发展方向是什么 2018-9-1](https://www.wengbi.com/thread_56397_1.html)
   * INIT PC
     * install java\sql\svn\git\node\mvn\vscode..
+  * 好的推文
+    * [github开源统计](https://mp.weixin.qq.com/s/IL9t_Mn3nkJYFFXLyhR9tQ)
