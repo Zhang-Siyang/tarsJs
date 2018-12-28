@@ -2,6 +2,8 @@
 
 <img src="https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg" width = "50%" height = "50%" div align=center />
 
+（贝佐斯过圣诞）
+
 # 引言：
 
 初衷：写于2018年的12月，广州这座城市依旧几次入冬失败，毕业已近半年。
