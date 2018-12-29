@@ -45,10 +45,10 @@
      * [Return false](https://blog.csdn.net/qq_21325977/article/details/79973333)
      * [HTML 事件属性](http://www.w3school.com.cn/tags/event_onmouseout.asp)
      * [jQuery 参考手册 - 事件](http://www.w3school.com.cn/jquery/jquery_ref_events.asp)
-   * 历史🏯
+   * 历史
      * [Javascript诞生记](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
      * [前端开发的演变](https://www.yuque.com/ant-design/course/sc1lvc)
-   * 数据类型🚶
+   * 数据类型
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
    * 万物皆对象🐘
       **属性是对象的性质、方法是对象的动作、事件是对象的响应**
@@ -68,17 +68,17 @@
       * [浏览器状态码](https://www.cnblogs.com/xiaowenwu/p/5519697.html)
       * [浏览器工作机制](https://www.cnblogs.com/jzxx/p/6098846.html)
       * [V8](https://blog.csdn.net/heyeqingquan/article/details/78839699)/[V8与node](http://www.broadview.com.cn/article/419435)/[V8背后的故事](http://www.weste.net/2009/4-23/10412931178.html)
-   * 闭包👜
+   * 闭包
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E9%97%AD%E5%8C%85.md)
       * [学习闭包](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
       * [匿名函数与闭包](https://www.cnblogs.com/chenxianbin89/archive/2010/01/28/1658392.html)
-   * 正则表达式🔢
+   * 正则表达式
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
       * [正则表达式贪婪与非贪婪模式](https://www.cnblogs.com/xudong-bupt/p/3586889.html)
       * [最常用的15个前端表单验证JS正则表达式](https://www.jb51.net/article/118265.htm)
    * 原型链⛓
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
-   * ES6🐖
+   * ES6
      **Es6 !important**
      * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/ES6.md)
      * [let和const](https://blog.csdn.net/lilongsy/article/details/75048822)
@@ -96,7 +96,7 @@
         * [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967?utm_source=blogxgwz0)
         * [iframe与主框架跨域相互访问方法](https://blog.csdn.net/fdipzone/article/details/17619673)
         * [为什么是浏览器同源策略](https://www.cnblogs.com/laixiangran/p/9064769.html)
-   * 强制类型转换👍
+   * 强制类型转换
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 * 探索
@@ -109,9 +109,9 @@
    * 性能优化👾
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
       * [RequireJs](https://www.jianshu.com/p/7dfd612693bc)
-   * 兼容问题☕   
+   * 兼容问题  
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98.md)
-   * 网络相关⌨   
+   * 网络相关  
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E6%8E%A2%E7%B4%A2/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.md)
       * [HTTP](http://www.runoob.com/http/http-tutorial.html)
       * [TCP/IP与Http](https://www.cnblogs.com/xianlei/p/tcpip_http.html)
