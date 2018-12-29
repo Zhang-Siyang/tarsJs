@@ -229,5 +229,6 @@
     * install java\sql\svn\git\node\mvn\vscode..
   * 好的推文
     * [github开源统计](https://mp.weixin.qq.com/s/IL9t_Mn3nkJYFFXLyhR9tQ)
-  * 前端技术特点：入门易吃透难、更新快迭代快、内容多内容杂
-  * 开发Debug流程：发现问题、确认问题、定位问题、解决思路、具体解决、检验测试
+  * 体会
+    * 前端技术特点：入门易吃透难、更新快迭代快、内容多内容杂
+    * 开发Debug流程：发现问题、确认问题、定位问题、解决思路、具体解决、检验测试
