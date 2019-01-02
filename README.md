@@ -157,7 +157,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第三章 Vue Ag
->数据绑定
+>数据的绑定
 * Vue
   * learn-vue1.0
     * [vue-cli目录说明](https://my.oschina.net/liuyuantao/blog/883251)
