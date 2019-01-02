@@ -141,7 +141,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第二章 Css 
->Cascading Style Sheets 层叠样式表
+>易为难处难为易
 * 基础
   * css
     * [BEM规范](https://www.w3cplus.com/css/bem-definitions.html) [BEM规范](https://segmentfault.com/a/1190000000391762)
@@ -157,7 +157,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第三章 Vue Ag
->vue不适合和jquery一起用：前者是数据绑定思想；后者是操作Dom思想
+>数据绑定
 * Vue
   * learn-vue1.0
     * [vue-cli目录说明](https://my.oschina.net/liuyuantao/blog/883251)
@@ -178,7 +178,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第四章 MySql
->关系数据库管理系统
+>数据的力量
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
