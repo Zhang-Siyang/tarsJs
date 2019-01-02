@@ -178,7 +178,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第四章 MySql
->数据的力量
+>存储的力量
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
