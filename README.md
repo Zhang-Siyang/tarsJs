@@ -127,7 +127,8 @@
 * 工作杂记
     * 杂一
       * [ztree]()
-      * [iframe](https://www.cnblogs.com/leejersey/p/3780452.html) 
+      * [iframe](https://www.cnblogs.com/leejersey/p/3780452.html)
+      * [BootstrapTable](https://blog.csdn.net/duan199404/article/details/75625755) 
 
 * Node
   * Node基础
