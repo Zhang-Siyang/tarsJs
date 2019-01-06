@@ -16,11 +16,11 @@
 
 当你遇到bug、或者某个技术点的时候，不再是满世界的去搜索解决方案，而是来这里，将会大有裨益。
 
-**重要的不是工作，重要的是工作中的积累**
+**工作很重要，但工作中的积累更重要**
 
 诚邀大家参与，共同学习。
 
-致谢：感谢阿佳给予的支持。
+感谢阿佳给予的支持。
 
 **永远纪念阿门！**
 
@@ -228,7 +228,7 @@
     * [百度百科UED](https://baike.baidu.com/item/UED/1953215?fr=aladdin)
     * [前端未来几年的发展方向是什么 2018-9-1](https://www.wengbi.com/thread_56397_1.html)
   * INIT PC
-    * install java\sql\svn\git\node\mvn\vscode..
+    * install java环境\sql-navicat\svn\git\node\mvn\vscode\opera\chrome\beyond compare...
   * 好的推文
     * [github开源统计](https://mp.weixin.qq.com/s/IL9t_Mn3nkJYFFXLyhR9tQ)
   * 体会
