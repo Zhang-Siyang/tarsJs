@@ -33,7 +33,7 @@
 
 ## 第一章 JavaScript
 >“它的优秀之处并非原创，它的原创之处并不优秀”
-* 基础
+* 夯实基础
    * ECMAScript
    * BOM
    * DOM
@@ -56,7 +56,7 @@
       * [mouseover/mouseenter](http://www.w3school.com.cn/tiy/t.asp?f=jquery_event_mouseenter_mouseover)
       * [(function($) {})(jQuery)](https://www.cnblogs.com/qingruihappy/p/8467562.html)
 
-* 进阶
+* 高级进阶
    * 浏览器🌏
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%B5%8F%E8%A7%88%E5%99%A8/%E5%86%85%E6%A0%B8.md)
       * [webkit和Geoko](https://www.cnblogs.com/slly/p/6640761.html)
@@ -96,7 +96,7 @@
    * 强制类型转换
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
-* 探索
+* 探索原理
    * 算法题➗
       * [回文]()
       * [排序]()
@@ -120,21 +120,14 @@
   * 堆栈
     * [Stack](http://www.ruanyifeng.com/blog/2013/11/stack.html) 
     * [Event Loop](https://segmentfault.com/a/1190000012806637) [+](http://www.ruanyifeng.com/blog/2013/11/stack.html)
-
-* 工作杂记
-    * 杂一
-      * [ztree]()
-      * [iframe](https://www.cnblogs.com/leejersey/p/3780452.html)
-      * [BootstrapTable](https://blog.csdn.net/duan199404/article/details/75625755) 
-
-* Node
-  * Node基础
-    * [Node.js Express 框架](http://www.runoob.com/nodejs/nodejs-express-framework.html)
-  * 爬虫
-    * [node搭建服务器](https://www.cnblogs.com/saber200/p/5242732.html)
-    * [基于superagent与cheerio](https://www.cnblogs.com/LIUYANZUO/p/5505338.html)
-  * Node和浏览器
-    * [浏览器和Node不同的事件循环（Event Loop）](https://segmentfault.com/a/1190000013660033?utm_source=channel-hottest)
+  * Node
+    * Node基础
+      * [Node.js Express 框架](http://www.runoob.com/nodejs/nodejs-express-framework.html)
+    * 爬虫
+      * [node搭建服务器](https://www.cnblogs.com/saber200/p/5242732.html)
+      * [基于superagent与cheerio](https://www.cnblogs.com/LIUYANZUO/p/5505338.html)
+    * Node和浏览器
+      * [浏览器和Node不同的事件循环（Event Loop）](https://segmentfault.com/a/1190000013660033?utm_source=channel-hottest)
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
@@ -155,7 +148,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第三章 Vue Ag
->数据的绑定
+>双向绑定
 * Vue
   * learn-vue1.0
     * [vue-cli目录说明](https://my.oschina.net/liuyuantao/blog/883251)
@@ -181,8 +174,7 @@
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第四章 更多
->浑欲不胜簪
-* 基础
+* 学海无涯苦作舟
   * Git：
     * [github-我的笔记](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
     * [MIT](https://blog.csdn.net/qq_35246620/article/details/77647234) [+](https://www.cnblogs.com/newcaoguo/p/7103249.html)
@@ -230,3 +222,8 @@
   * 体会
     * 前端技术特点：入门易吃透难、更新快迭代快、内容多内容杂
     * 开发Debug流程：发现问题、确认问题、定位问题、解决思路、具体解决、检验测试
+  * 工作杂记
+    * 杂一
+      * [ztree]()
+      * [iframe](https://www.cnblogs.com/leejersey/p/3780452.html)
+      * [BootstrapTable](https://blog.csdn.net/duan199404/article/details/75625755) 
