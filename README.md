@@ -2,7 +2,7 @@
 
 <img src="https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg" width = "40%" height = "40%" div align=center />
 
-（图为1999年圣诞节-亚马逊创始人贝佐斯）
+（1999年圣诞节-亚马逊创始人贝佐斯）
 
 # 引言：
 
