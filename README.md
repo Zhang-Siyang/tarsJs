@@ -1,11 +1,7 @@
 >I think it's different,so it's different!
 
-<h2 align="center">
-  <lable style="color:yellow">tars Gather</lable>
-  <br>
-</h2>
+<lable align="center" color=yellow>tars Gather </lable>
 
-<lable style="color:yellow">tars Gather</lable>
 
 # 引言：
 
