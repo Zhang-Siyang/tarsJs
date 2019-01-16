@@ -1,8 +1,5 @@
 >I think it's different,so it's different!
 
-<font align="center" color="yellow">tars Gather </font>
-
-
 # 引言：
 
 初衷：写于2018年的12月，广州这座城市依旧几次入冬失败，毕业已近半年。
