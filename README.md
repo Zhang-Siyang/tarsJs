@@ -1,7 +1,7 @@
 >I think it's different,so it's different!
 
 <h1 align="center">
-  <span color="yellow">tars Gather</span>
+  <lable style="color:yellow">tars Gather</lable>
   <br>
 </h1>
 
