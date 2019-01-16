@@ -1,7 +1,7 @@
 >I think it's different,so it's different!
 
 <h1 align="center">
-  tars Gather
+  <span color="yellow">tars Gather</span>
   <br>
 </h1>
 
