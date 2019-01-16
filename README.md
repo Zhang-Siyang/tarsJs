@@ -1,9 +1,8 @@
 
 
 <h1 align="center">
-  <img src="https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg" width = "40%" height = "40%" align=center />
-  <br>
   tars Gather
+  <br>
 </h1>
 
 >I think it's different,so it's different!
