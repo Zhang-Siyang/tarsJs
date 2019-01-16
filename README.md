@@ -1,6 +1,6 @@
 >I think it's different,so it's different!
 
-<lable align="center" color=yellow>tars Gather </lable>
+<font align="center" color="yellow">tars Gather </font>
 
 
 # 引言：
