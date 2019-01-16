@@ -1,5 +1,3 @@
->I think it's different,so it's different!
-
 # 引言：
 
 **未来是如何对庞大数据进行有效运用的未来**
