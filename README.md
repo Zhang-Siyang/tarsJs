@@ -1,8 +1,13 @@
 >I think it's different,so it's different!
 
-<img src="https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg" width = "40%" height = "40%" div align=center />
+<h1 align="center">
+  <img src="https://github.com/TUARAN/tarsJs/blob/master/make%20it%20different.jpg" width = "40%" height = "40%" align=center />
+  <br>
+  tars Gather
+</h1>
 
-（1999年圣诞节-亚马逊创始人贝佐斯）
+
+
 
 # 引言：
 
