@@ -5,18 +5,19 @@ tarsJs —— 前端整理
 >未来是如何对庞大数据进行有效运用的未来，在那之前要学会整理！
 
 # 目录
-[第一章 JavaScript]()
+[第1章 JavaScript]()
+    [1.1 ]() 
 
-[第二章 Css]()
+[第2章 Css]()
 
-[第三章 Vue]()
+[第3章 Vue]()
 
-[第四章 MySql]()
+[第4章 MySql]()
 
-[第五章 更多]()
+[第5章 尽人事]()
 
-## 第一章 JavaScript
-* 夯实基础
+## 第1章 JavaScript
+* xxx
    * ECMAScript
    * BOM
    * DOM
@@ -40,8 +41,7 @@ tarsJs —— 前端整理
       * [(function($) {})(jQuery)](https://www.cnblogs.com/qingruihappy/p/8467562.html)
     * BootStrap
       * BootStrap
-      
-* 高级进阶
+* xxxx       
    * 浏览器🌏
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%B5%8F%E8%A7%88%E5%99%A8/%E5%86%85%E6%A0%B8.md)
       * [webkit和Geoko](https://www.cnblogs.com/slly/p/6640761.html)
@@ -155,7 +155,7 @@ tarsJs —— 前端整理
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## 第四章 更多
+## 第四章 尽人事
 * 学海无涯苦作舟
   * Git：
     * [github-我的笔记](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
