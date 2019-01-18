@@ -6,7 +6,6 @@ tarsJs —— 前端整理
 
 # 目录
 [第1章 JavaScript]()
-    [1.1 ]() 
 
 [第2章 Css]()
 
