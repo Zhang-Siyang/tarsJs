@@ -16,7 +16,6 @@ tarsJs —— 前端整理
 [第五章 更多]()
 
 ## 第一章 JavaScript
->“它的优秀之处并非原创，它的原创之处并不优秀”
 * 夯实基础
    * ECMAScript
    * BOM
@@ -118,7 +117,6 @@ tarsJs —— 前端整理
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第二章 Css 
->易为难处难为易
 * 基础
   * css
     * [BEM规范](https://www.w3cplus.com/css/bem-definitions.html) [BEM规范](https://segmentfault.com/a/1190000000391762)
@@ -134,7 +132,6 @@ tarsJs —— 前端整理
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第三章 Vue Ag
->双向绑定
 * Vue
   * learn-vue1.0
     * [vue-cli目录说明](https://my.oschina.net/liuyuantao/blog/883251)
@@ -155,7 +152,6 @@ tarsJs —— 前端整理
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第四章 MySql
->存储的力量
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
