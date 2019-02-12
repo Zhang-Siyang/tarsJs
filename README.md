@@ -156,7 +156,7 @@
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## 第四章 尽人事
+## 第四章 集
 * 学海无涯苦作舟
   * Git：
     * [github-我的笔记](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
