@@ -18,7 +18,7 @@
 [第5章 尽人事]()
 
 ## 第1章 JavaScript
-* xxx
+* 温故知新
    * ECMAScript
    * BOM
    * DOM
@@ -42,7 +42,7 @@
       * [(function($) {})(jQuery)](https://www.cnblogs.com/qingruihappy/p/8467562.html)
     * BootStrap
       * BootStrap
-* xxxx       
+* 高屋建瓴       
    * 浏览器🌏
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E6%B5%8F%E8%A7%88%E5%99%A8/%E5%86%85%E6%A0%B8.md)
       * [webkit和Geoko](https://www.cnblogs.com/slly/p/6640761.html)
@@ -82,7 +82,7 @@
    * 强制类型转换
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
-* 探索原理
+* 原理
    * 算法题➗
       * [回文]()
       * [排序]()
