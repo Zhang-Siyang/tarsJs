@@ -74,7 +74,7 @@
    * 强制类型转换
       * [我的笔记](https://github.com/TUARAN/tarsJs/blob/master/%E8%BF%9B%E9%98%B6/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
-* 原理
+* 算法原理
    * 算法题➗
       * [回文]()
       * [排序]()
@@ -126,12 +126,12 @@
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
 ## 第三章 Vue Ag
 * Vue
-  * learn-vue1.0
+  * 1.0
     * [vue-cli目录说明](https://my.oschina.net/liuyuantao/blog/883251)
     * [vue漫谈v1.0](https://github.com/TUARAN/tarsVue/blob/master/vue漫谈v1.0.md)
     * [vue-cli+axios跨域](https://blog.csdn.net/it_cgq/article/details/78781422) 
     * [Element](http://element-cn.eleme.io/#/zh-CN)
-  * learn-vue2.0
+  * 2.0
     * [vue漫谈v2.0](https://github.com/TUARAN/tarsVue/blob/master/vue2.0.md)
     * [VueX组件通信](https://segmentfault.com/a/1190000009404727)
     * [Vue-cli实现原理](http://www.bslxx.com/a/vue/kaiyuankuangjia/2018/0408/1903.html)  
