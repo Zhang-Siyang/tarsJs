@@ -11,9 +11,7 @@
 
 [第3章 Vue]()
 
-[第4章 MySql]()
-
-[第5章 尽人事]()
+[第5章 杂录]()
 
 ## 第1章 JavaScript
 * 温故知新
@@ -150,11 +148,7 @@
 <br>
 
 [👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## 第四章 MySql
-<br>
-
-[👆TOP](https://github.com/TUARAN/tarsJs/blob/master/README.md#目录)
-## 第四章 集
+## 第四章 杂录
 * 学海无涯苦作舟
   * Git：
     * [github-我的笔记](https://github.com/TUARAN/tarsJs/blob/master/git/git.md)
