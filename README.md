@@ -186,8 +186,6 @@
   * 前瞻
     * [百度百科UED](https://baike.baidu.com/item/UED/1953215?fr=aladdin)
     * [前端未来几年的发展方向是什么 2018-9-1](https://www.wengbi.com/thread_56397_1.html)
-  * INIT PC
-    * install java环境\sql-navicat\svn\git\node\mvn\vscode\opera\chrome\beyond compare...
   * 好的推文
     * [github开源统计](https://mp.weixin.qq.com/s/IL9t_Mn3nkJYFFXLyhR9tQ)
   * 体会
